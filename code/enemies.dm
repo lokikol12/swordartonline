@@ -56,9 +56,9 @@ mob/enemy
 
 
 	starthollow
-		name = "{NPC}Wild Boar"
+		name = "{NPC}Wild Black Boar"
 		icon = 'boar.dmi'
-		soulpower = 35
+		soulpower = 10
 		health = 10000
 		healthwas = 10000
 		reiryoku = 10000000
@@ -80,7 +80,7 @@ mob/enemy
 	boar
 		name = "{NPC}Wild Adult Boar"
 		icon = 'newboar.dmi'
-		soulpower = 35
+		soulpower = 10
 		health = 10000
 		healthwas = 10000
 		reiryoku = 10000000
@@ -99,9 +99,9 @@ mob/enemy
 
 
 	blacksabi
-		name = "{NPC}Katzu"
+		name = "{NPC}Black Goblin"
 		icon = 'blacksabi.dmi'
-		soulpower = 10
+		soulpower = 50
 		icon_state = ""
 		health = 50000
 		healthwas = 50000
@@ -118,9 +118,9 @@ mob/enemy
 		itemDrops = list(list(new/obj/equipment/unique/staff,2))
 
 	barra2
-		name = "{NPC}Lord Barran"
+		name = "{NPC}Black Knight"
 		icon = 'barra2.dmi'
-		soulpower = 10
+		soulpower = 250
 		icon_state = ""
 		health = 250000
 		healthwas = 250000
@@ -148,7 +148,7 @@ mob/enemy
 		name = "{NPC}Forsaken"
 		icon = 'adjuuaa.dmi'
 		icon_state = "12"
-		soulpower = 100
+		soulpower = 150
 		enemy = 1
 		rundelay = 1
 		health = 350000
@@ -168,10 +168,10 @@ mob/enemy
 		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,2))
 
 	Kratos
-		name = "{NPC}Kratos"
+		name = "{NPC}Servant of Darkness"
 		icon = 'kratos.dmi'
 		icon_state = "blank"
-		soulpower = 1
+		soulpower = 1500
 		rundelay = 4
 		enemy = 1
 		health = 750000
@@ -191,7 +191,7 @@ mob/enemy
 //floor 3
 
 	Hougfail
-		name = "{NPC}Undead Zattta"
+		name = "{NPC}Undead Knight"
 		icon = 'hougfailure.dmi'
 		enemy = 1
 		health = 500000
@@ -209,10 +209,10 @@ mob/enemy
 		itemDrops = list(list(new/obj/equipment/legendary/Hougyokurobe,2))
 
 	larza
-		name = "{NPC}Lord Larza"
+		name = "{NPC}Mummy"
 		icon = 'soulking.dmi'
 		icon_state = ""
-		soulpower = 100
+		soulpower = 600
 		enemy = 1
 		rundelay = 1
 		health = 1500000
@@ -283,7 +283,7 @@ mob/enemy
 
 //
 	Heathcliff
-		name = "{NPC}Heathcliff"
+		name = "{NPC}Black Soul"
 		icon = 'zanspirit4.dmi'
 		soulpower = 35
 		health = 500000000
@@ -307,7 +307,7 @@ mob/enemy
 	Mblade
 		name = "{NPC}Zekki"
 		icon = 'armydude.dmi'
-		soulpower = 35
+		soulpower = 3500
 		health = 100000000
 		healthwas = 100000000
 		reiryoku = 10000000
@@ -326,9 +326,9 @@ mob/enemy
 
 
 	Mbladeboss
-		name = "{NPC}Mufasa"
+		name = "{NPC}Mufasa the Indead"
 		icon = 'zanspirit7.dmi'
-		soulpower = 35
+		soulpower = 5000
 		health = 500000000
 		healthwas = 500000000
 		reiryoku = 10000000
@@ -352,7 +352,7 @@ mob/enemy
 		name = "{NPC}Netzu"
 		icon = 'ZanSpirit2.dmi'
 		icon_state = "hai"
-		soulpower = 100
+		soulpower = 1000
 		enemy = 1
 		rundelay = 1
 		health = 7000000
@@ -375,7 +375,7 @@ mob/enemy
 		name = "Yhwach"
 		icon = 'yawcho.dmi'
 		icon_state = ""
-		soulpower = 100
+		soulpower = 20000
 		enemy = 1
 		rundelay = 1
 		health = 60000000
@@ -400,7 +400,7 @@ mob/enemy
 		name = "{NPC}Hitku"
 		icon = 'zaspirit3.dmi'
 		icon_state = "base"
-		soulpower = 100
+		soulpower = 10000
 		enemy = 1
 		rundelay = 1
 		health = 3000000
@@ -423,7 +423,7 @@ mob/enemy
 	hom
 		name = "{NPC}Homunculi"
 		icon = 'hm3.dmi'
-		soulpower = 10
+		soulpower = 10000
 		icon_state = ""
 		health = 20000000
 		healthwas = 20000000
@@ -445,7 +445,7 @@ mob/enemy
 	casper
 		name = "{NPC}Casper"
 		icon = 'casper.dmi'
-		soulpower = 10
+		soulpower = 10000
 		icon_state = ""
 		health = 20000000
 		healthwas = 20000000
@@ -463,10 +463,10 @@ mob/enemy
 
 
 	SK3
-		name = "{NPC}BlueDemon"
+		name = "{NPC}Blue Demon"
 		icon = 'firedemon.dmi'
 		icon_state = ""
-		soulpower = 100
+		soulpower = 100000
 		enemy = 1
 		rundelay = 1
 		health = 50000000
@@ -557,7 +557,7 @@ mob/enemy
 
 
 	HellG
-		name = "{NPC}City of Tsuki Guard"
+		name = "{NPC} Tsuki Guard"
 		icon = 'kush.dmi'
 		soulpower = 600
 		enemy = 1
@@ -619,7 +619,7 @@ mob/enemy
 
 
 	Robot
-		name = "{NPC}Robot"
+		name = "{NPC}Mr.Robot"
 		icon = 'saomob1.dmi'
 		soulpower = 35
 		health = 750000000
