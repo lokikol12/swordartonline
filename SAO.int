@@ -6,7 +6,7 @@ DIR: code Sao Silly Silly\Code
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 512.1488
-WINDOW: Silly\Code\equipment.dm
-FILE: Silly\Code\equipment.dm
+WINDOW: code\admin.dm;SAO.dmm;SAO.dme;code\attackobjs.dm;code\hometeleport.dm
+FILE: code\hometeleport.dm
 */
 // END_INTERNALS
