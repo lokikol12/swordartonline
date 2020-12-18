@@ -1,7 +1,7 @@
 mob
 	var
-		tele = 0
-
+		tele = 12
+//Why is this not working??""
 //verbs for moderators
 
 

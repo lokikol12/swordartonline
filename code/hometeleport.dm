@@ -49,7 +49,7 @@ mob/techniques/verb/TeleportHome6()
 	outputMessage(usr,"Welcome back.", "gametext")
 	usr.loc = locate(16,208,4)
 	usr.safe = 0
-
+//what is going on here???"
 
 mob/techniques/verb/TeleportHome7()
 	set category = "Other"
