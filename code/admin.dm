@@ -4,7 +4,7 @@ mob
 
 //verbs for moderators
 
-// Ohh i'm sorry i won't do that, i just didn't understand what to do in begining lol, but this is cool xD
+// yoyo so starting out dont change any codes if your un sure jus ask first
 var/list/mutedPlayers
 
 
