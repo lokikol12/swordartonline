@@ -182,7 +182,6 @@ mob
 			if(src.enemy) //if src is an enemy(mob/enemy)
 				if(src.health<=0) //if src has less than or equal to 0 hp
 					src.health = src.healthwas //set health to healthwas
-					if(M.client && (M.client.questsList["ongoing"].len > 0)) M.client.trackQuestKills(src)
 					dropItems(src)
 					M.exp += src.expgain
 					M.boarkills += src.boarkills

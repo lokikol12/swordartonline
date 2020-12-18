@@ -74,7 +74,7 @@ mob/enemy
 		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,2))
 		itemDrops = list(list(new/obj/equipment/unique/LordSword,2))
 		itemDrops = list(list(new/obj/equipment/unique/staff,2))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 	boar
@@ -96,7 +96,7 @@ mob/enemy
 		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,1))
 		itemDrops = list(list(new/obj/equipment/unique/LordSword,10))
 		itemDrops = list(list(new/obj/equipment/unique/staff,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 	blacksabi
 		name = "{NPC}Katzu"
@@ -136,7 +136,7 @@ mob/enemy
 		Corwas = 25000
 		Skills = list("bala")
 		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,100))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 
@@ -187,7 +187,7 @@ mob/enemy
 		Corwas = 50000
 		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,2))
 		itemDrops = list(list(new/obj/equipment/unique/staffice,3))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 //floor 3
 
 	Hougfail
@@ -230,7 +230,7 @@ mob/enemy
 		Corwas = 75000
 		itemDrops = list(list(new/obj/equipment/legendary/magearmor1,3))
 		itemDrops = list(list(new/obj/equipment/unique/staffice,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 //floor 4
 
 
@@ -277,7 +277,7 @@ mob/enemy
 		Corwas = 12500
 		Skills = list("Cero","GranReyCero")
 		itemDrops = list(list(new/obj/equipment/legendary/hellarmor,2))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 
@@ -298,7 +298,7 @@ mob/enemy
 		Cor = 30000000
 		Corwas = 30000000
 		itemDrops = list(list(new/obj/equipment/unique/Elucidator,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 // magic blade cave
 
@@ -320,7 +320,7 @@ mob/enemy
 		Cor = 150000
 		Corwas = 150000
 		itemDrops = list(list(new/obj/equipment/unique/magicblade,0.001))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 
@@ -342,7 +342,7 @@ mob/enemy
 		Cor = 30000000
 		Corwas = 30000000
 		itemDrops = list(list(new/obj/equipment/unique/magicblade,2))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 
@@ -369,7 +369,7 @@ mob/enemy
 		Cor = 5000
 		Corwas = 5000
 		itemDrops = list(list(new/obj/equipment/legendary/Orbs,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 	Yhwach
 		name = "Yhwach"
@@ -392,7 +392,7 @@ mob/enemy
 		Corwas = 2000000
 		Skills = list("Getsuga")
 		itemDrops = list(list(new/obj/equipment/unique/DarkRepulser,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 //floor6
 
 
@@ -418,7 +418,7 @@ mob/enemy
 		Corwas = 6000
 		Skills = list("Shakkahou")
 		itemDrops = list(list(new/obj/equipment/legendary/Armor2,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 	hom
 		name = "{NPC}Homunculi"
@@ -458,7 +458,7 @@ mob/enemy
 		Cor = 8000
 		Corwas = 8000
 		itemDrops = list(list(new/obj/equipment/unique/stafflight,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 
@@ -483,7 +483,7 @@ mob/enemy
 		Corwas = 6000000
 		Skills = list("ShootDragon")
 		itemDrops = list(list(new/obj/equipment/legendary/FrostOrbs,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 //floor8
@@ -529,7 +529,7 @@ mob/enemy
 		Cor = 7000000
 		Corwas = 7000000
 		itemDrops = list(list(new/obj/equipment/unique/Excalibur,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 // floor 9
 
@@ -575,7 +575,7 @@ mob/enemy
 		Cor = 350000
 		Corwas = 350000
 		itemDrops = list(list(new/obj/equipment/legendary/magearmor2,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 	reaper
 		name = "{NPC}Champion of Tsuki"
 		icon = 'reap.dmi'
@@ -615,7 +615,7 @@ mob/enemy
 		Cor = 250000
 		Corwas = 250000
 		itemDrops = list(list(new/obj/equipment/legendary/asunaarmor,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 	Robot
@@ -634,7 +634,7 @@ mob/enemy
 		Cor = 250000
 		Corwas = 250000
 		itemDrops = list(list(new/obj/equipment/legendary/magearmor3,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 	boss10
 		name = "{NPC}Yakzui"
@@ -653,7 +653,7 @@ mob/enemy
 		Cor = 4000000
 		Corwas = 4000000
 		itemDrops = list(list(new/obj/equipment/legendary/asunaarmor,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 
@@ -694,7 +694,7 @@ mob/enemy
 		Cor = 375000
 		Corwas = 375000
 		itemDrops = list(list(new/obj/equipment/unique/Excalibur,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 	boss11
@@ -774,7 +774,7 @@ mob/enemy
 		Cor = 15000000
 		Corwas = 15000000
 		itemDrops = list(list(new/obj/equipment/unique/Demonic,1))
-		itemDrops = list(list(new/obj/equipment/legendary/SHP,2))
+
 
 
 

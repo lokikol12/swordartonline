@@ -15,7 +15,7 @@ mob/World_Map
 					if(null)
 						return
 					if("Guild Items")
-						switch(input("Which item would you like to buy?", text) as null|anything in list ("Blood Oath Armor(50GP)","Excalibur(30GP)","Small healing potion(2GP)"))
+						switch(input("Which item would you like to buy?", text) as null|anything in list ("Blood Oath Armor(50GP)","Excalibur(30GP)"))
 							if(null)
 								return
 							if("Excalibur(30GP)")
@@ -27,11 +27,6 @@ mob/World_Map
 								if(player.guildpoints >= 50)
 									player.guildpoints -= 50
 									var/obj/K = new/obj/equipment/legendary/asunaarmor
-									player.client.addToInventory(K)
-							if("Small healing potion(2GP)")
-								if(player.guildpoints>= 2)
-									player.guildpoints -= 2
-									var/obj/K = new/obj/equipment/legendary/SHP
 									player.client.addToInventory(K)
 					if("Double Exp 1hr")
 						switch(input("This is doule exp for the guild for a hour it cost 50GP?", text) as null|anything in list ("Yes","No"))

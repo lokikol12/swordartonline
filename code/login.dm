@@ -86,11 +86,6 @@ mob/proc
 					src.client.changedToSystem += x
 				if(src.client.changedToSystem.len < 1) src.client.changeEquipmentSystem()
 				*/
-				var/list/quests
-				load["quests"] >> quests
-
-				for(var/q in quests["ongoing"])
-					src.client.addQuest(quests["ongoing"][q],"bypass")
 
 				verbs -= /mob/techniques/verb/SpecialAttack
 
@@ -196,7 +191,7 @@ mob
 				src.addHud()
 				var/a=src.s_Support()
 				//testing isn't easy.
-				if(src.key == "Kodra777") {client.gainExp(10000000)}
+
 
 				if(a!=src.key)
 					if(a)

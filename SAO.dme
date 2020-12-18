@@ -19,6 +19,8 @@
 #define FILE_DIR "quincy"
 #define FILE_DIR "release"
 #define FILE_DIR "Sao"
+#define FILE_DIR "Sao/Silly"
+#define FILE_DIR "Sao/Silly/Interface"
 #define FILE_DIR "Shini"
 #define FILE_DIR "Silly"
 #define FILE_DIR "Silly/Interface"

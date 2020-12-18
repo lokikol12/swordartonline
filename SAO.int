@@ -1,12 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1608321989
-DIR: code Silly\Code 
+LAST_COMPILE_TIME: 1608328007
+DIR: code Sao Silly Silly\Code 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 512.1488
-WINDOW: code\updateguide.dm;code\tounry1.dm
-FILE: code\tounry1.dm
+WINDOW: Silly\Code\equipment.dm
+FILE: Silly\Code\equipment.dm
 */
 // END_INTERNALS
