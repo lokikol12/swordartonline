@@ -1,0 +1,916 @@
+macro "macro"
+	elem 
+		name = "Return"
+		command = "OOC"
+	elem 
+		name = "Space"
+		command = "Interact"
+	elem "MoveKey 4 0"
+		name = "Northeast+REP"
+	elem "MoveKey 2 0"
+		name = "Southeast+REP"
+	elem "MoveKey 1 0"
+		name = "Southwest+REP"
+	elem "MoveKey 8 0"
+		name = "Northwest+REP"
+	elem 
+		name = "West+UP"
+		command = "MoveKey 8 0"
+	elem 
+		name = "West+REP"
+		command = "MoveKey 8 1"
+	elem 
+		name = "North+UP"
+		command = "MoveKey 1 0"
+	elem "MoveKey 1 1"
+		name = "North+REP"
+		command = "MoveKey 1 1"
+	elem 
+		name = "East+UP"
+		command = "MoveKey 4 0"
+	elem 
+		name = "East+REP"
+		command = "MoveKey 4 1"
+	elem 
+		name = "South+UP"
+		command = "MoveKey 2 0"
+	elem 
+		name = "South+REP"
+		command = "MoveKey 2 1"
+	elem 
+		name = "A+REP"
+		command = "Attack"
+	elem 
+		name = "I"
+		command = "InventoryMenu"
+	elem 
+		name = "Q"
+		command = "QuestMenu"
+
+
+menu "menu"
+	elem 
+		name = "Event"
+		command = ""
+		saved-params = "is-checked"
+	elem 
+		name = "Join Raid"
+		command = "Enter-Raid"
+		category = "Event"
+		saved-params = "is-checked"
+	elem 
+		name = "Leave Raid"
+		command = "Leave-Raid"
+		category = "Event"
+		saved-params = "is-checked"
+	elem 
+		name = "Training"
+		command = ""
+		saved-params = "is-checked"
+	elem 
+		name = "Self Train"
+		command = "Self-Train"
+		category = "Training"
+		saved-params = "is-checked"
+	elem 
+		name = "StatsCard"
+		command = "Stats-Card"
+		category = "Training"
+		saved-params = "is-checked"
+	elem 
+		name = "Stat Focus"
+		command = "focus"
+		category = "Training"
+		saved-params = "is-checked"
+	elem 
+		name = "Teleport"
+		command = ""
+		saved-params = "is-checked"
+	elem 
+		name = "Floor 1"
+		command = "Floor-1-Teleport"
+		category = "Teleport"
+		saved-params = "is-checked"
+	elem 
+		name = "Info"
+		command = ""
+		saved-params = "is-checked"
+	elem 
+		name = "Hunts"
+		command = "Hunts"
+		category = "Info"
+		saved-params = "is-checked"
+	elem 
+		name = "Rules"
+		command = "Rules"
+		category = "Info"
+		saved-params = "is-checked"
+	elem 
+		name = "Guide"
+		command = "Guide"
+		category = "Info"
+		saved-params = "is-checked"
+	elem 
+		name = "Change View"
+		command = "ChangeView"
+		category = "Info"
+		saved-params = "is-checked"
+
+
+window "Stats"
+	elem "Stats"
+		type = MAIN
+		pos = 281,0
+		size = 175x187
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		border = line
+		saved-params = "pos;size;is-minimized;is-maximized"
+		alpha = 216
+	elem "button2"
+		type = BUTTON
+		pos = 42,44
+		size = 71x62
+		anchor1 = none
+		anchor2 = none
+		border = line
+		saved-params = "is-checked"
+		text = "Stats"
+		command = "ShowCard()"
+	elem "button1"
+		type = BUTTON
+		pos = 104,67
+		size = 60x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		command = ""
+	elem "label18"
+		type = LABEL
+		pos = 57,167
+		size = 60x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = ""
+		text = ""
+	elem "grid1"
+		type = GRID
+		pos = 13,32
+		size = 120x101
+		anchor1 = 10,14
+		anchor2 = 78,68
+		border = line
+		saved-params = ""
+		small-icons = true
+		highlight-color = #000000
+
+window "browser"
+	elem "browser"
+		type = MAIN
+		pos = 281,0
+		size = 640x505
+		anchor1 = none
+		anchor2 = none
+		background-color = #c0c0c0
+		is-visible = false
+		border = line
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "browser"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "button8"
+		type = BUTTON
+		pos = 280,481
+		size = 100x19
+		anchor1 = 44,95
+		anchor2 = 59,99
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "Close"
+		command = "CloseBrowser"
+	elem "label2"
+		type = LABEL
+		pos = 10,10
+		size = 620x466
+		anchor1 = 2,2
+		anchor2 = 98,94
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		text = ""
+	elem "browser1"
+		type = BROWSER
+		pos = 20,19
+		size = 600x447
+		anchor1 = 3,4
+		anchor2 = 97,92
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+
+window "card"
+	elem "card"
+		type = MAIN
+		pos = 281,0
+		size = 300x380
+		anchor1 = none
+		anchor2 = none
+		background-color = #c0c0c0
+		is-visible = false
+		border = line
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "label16"
+		type = LABEL
+		pos = 10,309
+		size = 280x61
+		anchor1 = none
+		anchor2 = none
+		background-color = #4a0412
+		border = line
+		saved-params = ""
+		text = ""
+	elem "button9"
+		type = BUTTON
+		pos = 105,343
+		size = 176x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "Reset Stats"
+		command = "Respec"
+	elem "button7"
+		type = BUTTON
+		pos = 20,319
+		size = 80x44
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "Close"
+		command = "CloseCard"
+	elem "statpointoutput"
+		type = LABEL
+		pos = 230,319
+		size = 50x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "0"
+	elem "label3"
+		type = LABEL
+		pos = 10,10
+		size = 280x290
+		anchor1 = none
+		anchor2 = none
+		background-color = #4a0412
+		border = line
+		saved-params = ""
+		text = ""
+	elem "label15"
+		type = LABEL
+		pos = 105,319
+		size = 120x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Available Statpoints"
+	elem "resistanceplus"
+		type = BUTTON
+		pos = 235,270
+		size = 20x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+"
+		command = "spendStatPoints resistance"
+	elem "button15"
+		type = BUTTON
+		pos = 258,270
+		size = 25x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+All"
+		command = "spendAllStatPoints resistance"
+	elem "button14"
+		type = BUTTON
+		pos = 258,245
+		size = 25x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+All"
+		command = "spendAllStatPoints reiatsu"
+	elem "button13"
+		type = BUTTON
+		pos = 258,219
+		size = 25x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+All"
+		command = "spendAllStatPoints defence"
+	elem "button12"
+		type = BUTTON
+		pos = 258,194
+		size = 25x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+All"
+		command = "spendAllStatPoints strength"
+	elem "button11"
+		type = BUTTON
+		pos = 258,169
+		size = 25x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+All"
+		command = "spendAllStatPoints mana"
+	elem "button10"
+		type = BUTTON
+		pos = 258,144
+		size = 25x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+All"
+		command = "spendAllStatPoints health"
+	elem "reiatsuplus"
+		type = BUTTON
+		pos = 235,245
+		size = 20x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+"
+		command = "spendStatPoints reiatsu"
+	elem "defenceplus"
+		type = BUTTON
+		pos = 235,219
+		size = 20x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+"
+		command = "spendStatPoints defence"
+	elem "strengthplus"
+		type = BUTTON
+		pos = 235,194
+		size = 20x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+"
+		command = "spendStatPoints strength"
+	elem "reiryokuplus"
+		type = BUTTON
+		pos = 235,169
+		size = 20x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+"
+		command = "spendStatPoints mana"
+	elem "healthplus"
+		type = BUTTON
+		pos = 235,144
+		size = 20x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = "is-checked"
+		text = "+"
+		command = "spendStatPoints health"
+	elem "soulpoweroutput"
+		type = LABEL
+		pos = 100,95
+		size = 182x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = ""
+		align = left
+	elem "raceoutput"
+		type = LABEL
+		pos = 100,70
+		size = 182x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = ""
+		align = left
+	elem "nameoutput"
+		type = LABEL
+		pos = 100,45
+		size = 182x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = ""
+		align = left
+	elem "resistanceoutput"
+		type = LABEL
+		pos = 100,270
+		size = 130x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = ""
+	elem "reiatsuoutput"
+		type = LABEL
+		pos = 100,245
+		size = 130x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = ""
+	elem "defenceoutput"
+		type = LABEL
+		pos = 100,220
+		size = 130x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = ""
+	elem "strengthoutput"
+		type = LABEL
+		pos = 100,194
+		size = 130x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = ""
+	elem "manaoutput"
+		type = LABEL
+		pos = 100,169
+		size = 130x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = ""
+	elem "healthoutput"
+		type = LABEL
+		pos = 100,144
+		size = 130x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = ""
+	elem "label14"
+		type = LABEL
+		pos = 20,270
+		size = 75x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Resistance"
+		align = right
+	elem "label13"
+		type = LABEL
+		pos = 20,245
+		size = 75x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Reiatsu"
+		align = right
+	elem "label12"
+		type = LABEL
+		pos = 20,220
+		size = 75x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Defence"
+		align = right
+	elem "label11"
+		type = LABEL
+		pos = 20,194
+		size = 75x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Strength"
+		align = right
+	elem "label10"
+		type = LABEL
+		pos = 20,169
+		size = 75x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Mana"
+		align = right
+	elem "label9"
+		type = LABEL
+		pos = 20,144
+		size = 75x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Health"
+		align = right
+	elem "label8"
+		type = LABEL
+		pos = 20,120
+		size = 262x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Stat Information"
+	elem "label7"
+		type = LABEL
+		pos = 20,95
+		size = 75x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Soul Power"
+		align = right
+	elem "label6"
+		type = LABEL
+		pos = 20,70
+		size = 75x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Race"
+		align = right
+	elem "label5"
+		type = LABEL
+		pos = 20,45
+		size = 75x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Name"
+		align = right
+	elem "label4"
+		type = LABEL
+		pos = 20,20
+		size = 262x20
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Player Information"
+
+window "default"
+	elem "default"
+		type = MAIN
+		pos = -18,0
+		size = 1344x669
+		anchor1 = none
+		anchor2 = none
+		background-color = #8080ff
+		is-default = true
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "SAO"
+		statusbar = false
+		is-maximized = true
+		macro = "macro"
+		menu = "menu"
+		on-close = ".quit"
+	elem "gametext"
+		type = OUTPUT
+		pos = 1106,1
+		size = 243x272
+		anchor1 = 82,0
+		anchor2 = 100,41
+		text-color = #800000
+		background-color = #000000
+		border = line
+		saved-params = "max-lines"
+	elem "label1"
+		type = LABEL
+		pos = 15,-39
+		size = 104x582
+		anchor1 = none
+		anchor2 = none
+		text-color = #d8d8d8
+		background-color = #8080ff
+		is-default = true
+		border = line
+		saved-params = ""
+		text = ""
+	elem "gametext2"
+		type = OUTPUT
+		pos = 0,382
+		size = 279x289
+		anchor1 = 0,56
+		anchor2 = 21,100
+		text-color = #800000
+		background-color = #000000
+		border = line
+		saved-params = "max-lines"
+	elem "chat"
+		type = OUTPUT
+		pos = 1105,273
+		size = 245x392
+		anchor1 = 82,41
+		anchor2 = 100,100
+		text-color = #ffffff
+		background-color = #000000
+		is-default = true
+		border = line
+		saved-params = "max-lines"
+	elem "map1"
+		type = MAP
+		pos = 279,1
+		size = 827x682
+		anchor1 = 21,0
+		anchor2 = 82,100
+		is-default = true
+		border = line
+		saved-params = "zoom;letterbox;zoom-mode"
+		icon-size = 32
+		zoom = 1
+	elem "Infooutput"
+		type = INFO
+		pos = -1,0
+		size = 280x382
+		anchor1 = 0,0
+		anchor2 = 21,56
+		text-color = #8080ff
+		background-color = #000000
+		is-default = true
+		border = line
+		saved-params = ""
+		tab-text-color = #8080ff
+		tab-background-color = #000000
+		prefix-color = #ffffff
+		suffix-color = #ffffff
+
+window "hud"
+	elem "hud"
+		type = MAIN
+		pos = 281,0
+		size = 356x100
+		anchor1 = none
+		anchor2 = none
+		background-color = #8c8cb1
+		is-visible = false
+		border = line
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "label17"
+		type = LABEL
+		pos = 10,10
+		size = 336x80
+		anchor1 = none
+		anchor2 = none
+		background-color = #a8a8d5
+		border = line
+		saved-params = ""
+		text = ""
+	elem "badge"
+		type = LABEL
+		pos = 16,17
+		size = 86x67
+		anchor1 = none
+		anchor2 = none
+		background-color = #8c8cb1
+		is-transparent = true
+		saved-params = ""
+		text = ""
+		image-mode = tile
+		keep-aspect = true
+	elem "explabel"
+		type = LABEL
+		pos = 105,66
+		size = 86x18
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Experience"
+		align = right
+	elem "manalabel"
+		type = LABEL
+		pos = 105,41
+		size = 86x18
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Mana"
+		align = right
+	elem "healthlabel"
+		type = LABEL
+		pos = 105,17
+		size = 86x18
+		anchor1 = none
+		anchor2 = none
+		font-style = "bold"
+		text-color = #d8d8d8
+		background-color = #5f5fb1
+		border = line
+		saved-params = ""
+		text = "Health"
+		align = right
+	elem "expbar"
+		type = BAR
+		pos = 193,66
+		size = 148x19
+		anchor1 = none
+		anchor2 = none
+		background-color = #000000
+		saved-params = ""
+		bar-color = #51ff51
+		is-slider = false
+		width = 0
+		dir = east
+		value = 100
+	elem "manabar"
+		type = BAR
+		pos = 193,41
+		size = 148x19
+		anchor1 = none
+		anchor2 = none
+		background-color = #000000
+		saved-params = ""
+		bar-color = #3c9dff
+		is-slider = false
+		width = 0
+		dir = east
+		value = 100
+	elem "healthbar"
+		type = BAR
+		pos = 193,17
+		size = 148x19
+		anchor1 = none
+		anchor2 = none
+		background-color = #000000
+		saved-params = ""
+		bar-color = #ff4040
+		is-slider = false
+		width = 0
+		dir = east
+		value = 100
+
