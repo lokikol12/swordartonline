@@ -5,6 +5,12 @@ mob
 //verbs for moderators
 
 // Ohh i'm sorry i won't do that, i just didn't understand what to do in begining lol, but this is cool xD
+// alright so now your coding well almost lets start small, project 1 click enemies tab and find better names for all of the mobs change the names by jus deleteing and putting in new ones
+//note dont change the mobs var name ie barra change the mobs output name ie name = "Barragon" and keep the ""
+
+//project 2
+
+//project3
 var/list/mutedPlayers
 
 
