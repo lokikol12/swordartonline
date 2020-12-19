@@ -124,16 +124,20 @@ window "Stats"
 		size = 175x187
 		anchor1 = none
 		anchor2 = none
+		background-color = none
 		is-visible = false
 		border = line
 		saved-params = "pos;size;is-minimized;is-maximized"
 		alpha = 216
+		outer-size = 191x245
+		inner-size = 175x206
 	elem "button2"
 		type = BUTTON
 		pos = 42,44
 		size = 71x62
 		anchor1 = none
 		anchor2 = none
+		background-color = none
 		border = line
 		saved-params = "is-checked"
 		text = "Stats"
@@ -144,6 +148,7 @@ window "Stats"
 		size = 60x20
 		anchor1 = none
 		anchor2 = none
+		background-color = none
 		saved-params = "is-checked"
 		text = ""
 		command = ""
@@ -153,6 +158,7 @@ window "Stats"
 		size = 60x20
 		anchor1 = none
 		anchor2 = none
+		background-color = none
 		saved-params = ""
 		text = ""
 	elem "grid1"
@@ -161,6 +167,8 @@ window "Stats"
 		size = 120x101
 		anchor1 = 10,14
 		anchor2 = 78,68
+		background-color = #ffcc99
+		is-disabled = true
 		border = line
 		saved-params = ""
 		small-icons = true
@@ -173,7 +181,7 @@ window "browser"
 		size = 640x505
 		anchor1 = none
 		anchor2 = none
-		background-color = #c0c0c0
+		background-color = #990000
 		is-visible = false
 		border = line
 		saved-params = "pos;size;is-minimized;is-maximized"
@@ -183,6 +191,8 @@ window "browser"
 		can-close = false
 		can-minimize = false
 		can-resize = false
+		outer-size = 654x519
+		inner-size = 640x505
 	elem "button8"
 		type = BUTTON
 		pos = 280,481
@@ -190,8 +200,7 @@ window "browser"
 		anchor1 = 44,95
 		anchor2 = 59,99
 		font-style = "bold"
-		text-color = #d8d8d8
-		background-color = #5f5fb1
+		background-color = #cc0000
 		border = line
 		saved-params = "is-checked"
 		text = "Close"
@@ -223,7 +232,7 @@ window "card"
 		size = 300x380
 		anchor1 = none
 		anchor2 = none
-		background-color = #c0c0c0
+		background-color = #ffffff
 		is-visible = false
 		border = line
 		saved-params = "pos;size;is-minimized;is-maximized"
@@ -232,13 +241,15 @@ window "card"
 		can-close = false
 		can-minimize = false
 		can-resize = false
+		outer-size = 314x394
+		inner-size = 300x380
 	elem "label16"
 		type = LABEL
 		pos = 10,309
 		size = 280x61
 		anchor1 = none
 		anchor2 = none
-		background-color = #4a0412
+		background-color = #000066
 		border = line
 		saved-params = ""
 		text = ""
@@ -286,7 +297,7 @@ window "card"
 		size = 280x290
 		anchor1 = none
 		anchor2 = none
-		background-color = #4a0412
+		background-color = #000066
 		border = line
 		saved-params = ""
 		text = ""
@@ -593,7 +604,7 @@ window "card"
 		background-color = #5f5fb1
 		border = line
 		saved-params = ""
-		text = "Reiatsu"
+		text = "Magic"
 		align = right
 	elem "label12"
 		type = LABEL
@@ -683,7 +694,7 @@ window "card"
 		background-color = #5f5fb1
 		border = line
 		saved-params = ""
-		text = "Race"
+		text = "Class"
 		align = right
 	elem "label5"
 		type = LABEL
@@ -718,7 +729,7 @@ window "default"
 		size = 1344x669
 		anchor1 = none
 		anchor2 = none
-		background-color = #8080ff
+		background-color = #dddddd
 		is-default = true
 		saved-params = "pos;size;is-minimized;is-maximized"
 		title = "SAO"
@@ -727,6 +738,8 @@ window "default"
 		macro = "macro"
 		menu = "menu"
 		on-close = ".quit"
+		outer-size = 1936x1056
+		inner-size = 1920x997
 	elem "gametext"
 		type = OUTPUT
 		pos = 1106,1
@@ -779,7 +792,6 @@ window "default"
 		is-default = true
 		border = line
 		saved-params = "zoom;letterbox;zoom-mode"
-		icon-size = 32
 		zoom = 1
 	elem "Infooutput"
 		type = INFO
@@ -804,7 +816,7 @@ window "hud"
 		size = 356x100
 		anchor1 = none
 		anchor2 = none
-		background-color = #8c8cb1
+		background-color = #1c1c1c
 		is-visible = false
 		border = line
 		saved-params = "pos;size;is-minimized;is-maximized"
@@ -813,6 +825,8 @@ window "hud"
 		can-close = false
 		can-minimize = false
 		can-resize = false
+		outer-size = 370x114
+		inner-size = 356x100
 	elem "label17"
 		type = LABEL
 		pos = 10,10
@@ -842,8 +856,8 @@ window "hud"
 		anchor1 = none
 		anchor2 = none
 		font-style = "bold"
-		text-color = #d8d8d8
-		background-color = #5f5fb1
+		text-color = #00cc00
+		background-color = #ffffff
 		border = line
 		saved-params = ""
 		text = "Experience"
@@ -855,8 +869,8 @@ window "hud"
 		anchor1 = none
 		anchor2 = none
 		font-style = "bold"
-		text-color = #d8d8d8
-		background-color = #5f5fb1
+		text-color = #3333ff
+		background-color = #f8f8f8
 		border = line
 		saved-params = ""
 		text = "Mana"
@@ -868,8 +882,8 @@ window "hud"
 		anchor1 = none
 		anchor2 = none
 		font-style = "bold"
-		text-color = #d8d8d8
-		background-color = #5f5fb1
+		text-color = #ff3300
+		background-color = #f8f8f8
 		border = line
 		saved-params = ""
 		text = "Health"
@@ -880,7 +894,7 @@ window "hud"
 		size = 148x19
 		anchor1 = none
 		anchor2 = none
-		background-color = #000000
+		background-color = #66ff99
 		saved-params = ""
 		bar-color = #51ff51
 		is-slider = false
@@ -893,9 +907,9 @@ window "hud"
 		size = 148x19
 		anchor1 = none
 		anchor2 = none
-		background-color = #000000
+		background-color = #00ffff
 		saved-params = ""
-		bar-color = #3c9dff
+		bar-color = #3399ff
 		is-slider = false
 		width = 0
 		dir = east
@@ -906,7 +920,7 @@ window "hud"
 		size = 148x19
 		anchor1 = none
 		anchor2 = none
-		background-color = #000000
+		background-color = #fd0647
 		saved-params = ""
 		bar-color = #ff4040
 		is-slider = false

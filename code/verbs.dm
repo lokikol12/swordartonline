@@ -272,10 +272,11 @@ mob
 					else
 						if(usr.GM == 1)
 							world << "<font color=[usr.namecolor]><b>{[usr.guild_name]}{Beater} <font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]</b></font>"
-						if(usr.key == "Kodra777")
+						if(usr.key == "Kodra777"||usr.key=="Gokuwarior212")
+
 							world << "<font color=[usr.namecolor]><b>{[usr.guild_name]}{Beater} <font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]</b></font>"
 					text2file("[time2text(world.realtime)]:[usr] (OOC): [msg]","logs/log.txt")
-
+					return
 		Race_Say(msg as text)
 			set category = "Other"
 			if(!usr.OOC)

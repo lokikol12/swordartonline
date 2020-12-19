@@ -23,6 +23,7 @@ Notes:
 			<html>
 				<body style="background-color:black; color:white;">
 					<h3><b>Update Info</b></h3>
+					12/19/2020 New base icon (none of the old icons fit, working on fixing that.)</br>
 					12/18/2020 added observe verb for admin...</br>
 					12/18/2020 added, adding custom overlays.</br>
 					12/18/2020 added send file verb.</br>

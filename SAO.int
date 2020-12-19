@@ -1,12 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1608328007
-DIR: code Sao Silly Silly\Code 
+LAST_COMPILE_TIME: 1608403237
+DIR: .git .git\hooks code dbz Fma fullbringer hollows icons icons\vaizard logs Newicons npcs2 Sao Sao\Silly Sao\Silly\Code Silly Silly\Code turfreal 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 512.1488
-WINDOW: Silly\Code\equipment.dm;code\admin.dm;code\hometeleport.dm
-FILE: code\admin.dm
+LAST_COMPILE_VERSION: 513.1536
+WINDOW: skin.dmf;SAO.dme;SAO.dmm;code\login.dm;icons\base.dmi;code\updateguide.dm;icons\hairbyakuya.dmi
+FILE: icons\base.dmi
 */
 // END_INTERNALS
