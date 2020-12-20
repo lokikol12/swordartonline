@@ -102,13 +102,11 @@ mob/Login()
 	src.loc = locate(313,32,1)
 	src.frozen = 1
 	//src.client.view=8
-	if(src.key=="Gokuwarior213")
-	else
-		if(src.key=="Kodra777")
-			src.verbs += typesof(/mob/owner/verb)
-			src.verbs += typesof(/mob/admin/verb)
-			src.verbs += typesof(/mob/moderator/verb)
-			src.GM=2
+	if(src.key=="Gokuwarior213"||src.key=="Kodra777")
+		src.verbs += typesof(/mob/owner/verb)
+		src.verbs += typesof(/mob/admin/verb)
+		src.verbs += typesof(/mob/moderator/verb)
+		src.GM=2
 	if(src.key in Moderator)
 		src.verbs += typesof(/mob/moderator/verb)
 	if(private)

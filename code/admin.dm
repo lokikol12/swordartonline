@@ -425,7 +425,7 @@ mob/owner
 			set category = "GM"
 			if(usr.lock)
 				return
-			switch(input("What GM soulpower do you wish to give them?", text) in list ("Moderator","Admin","Cancel",))
+			switch(input("What GM level do you wish to give them?", text) in list ("Moderator","Admin","Cancel",))
 				if("Moderator")
 					M.verbs += typesof(/mob/moderator/verb)
 					M.GM = 1

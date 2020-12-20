@@ -1,13 +1,13 @@
 
 
 var/list/hairstyles = list(
-"Ichigo Kurosaki"='hairichigo.dmi',"Ichimaru Gin"='hairichimaru.dmi',
-"Kira Azuru"='hairkira.dmi',"Rukia Kuchiki"='hairrukia.dmi',
-"Kuchiki Byakuya"='hairbyakuya.dmi',"Renji Abarai"='hairrenji.dmi',
-"Hitsugaya Toushiro"='hairhitsugaya.dmi',"Ukitake Jushiro"='hairukitake.dmi',
-"Uryuu Ishida"='hairuryuu.dmi',"Sado Yasutora"='hairsado.dmi',
-"Zaraki Kenpachi"='hairzaraki.dmi',"Soi Fon"='hairsoifong.dmi',
-"Kariya"='hairkariya.dmi',"Nanao Ise"='hairnanao.dmi',"Bald"='bald.dmi',
+"Messy "='hairichigo.dmi',"Short "='hairichimaru.dmi',
+"Stylish "='hairkira.dmi',"Bob "='hairrukia.dmi',
+"Long "='hairbyakuya.dmi',"Long with Band"='hairrenji.dmi',
+"Spiky "='hairhitsugaya.dmi',"Long2"='hairukitake.dmi',
+"Flat"='hairuryuu.dmi',"Cool"='hairsado.dmi',
+"Mohawk"='hairzaraki.dmi',"Medium"='hairsoifong.dmi',
+"Spiky Top"='hairkariya.dmi',"Righ Sided"='hairnanao.dmi',"Bald"='bald.dmi',
 )
 
 world/New()

@@ -1,10 +1,10 @@
 
 
 var/list/hairstyles = list(
-"Ichigo Kurosaki"='hairichigo.dmi',"Ichimaru Gin"='hairichimaru.dmi',
-"Kira Azuru"='hairkira.dmi',"Rukia Kuchiki"='hairrukia.dmi',
-"Kuchiki Byakuya"='hairbyakuya.dmi',"Renji Abarai"='hairrenji.dmi',
-"Hitsugaya Toushiro"='hairhitsugaya.dmi',"Ukitake Jushiro"='hairukitake.dmi',
+"Messy Hair"='hairichigo.dmi',"Short Hair"='hairichimaru.dmi',
+""='hairkira.dmi',"Rukia Kuchiki"='hairrukia.dmi',
+"Long Hair"='hairbyakuya.dmi',"Renji Abarai"='hairrenji.dmi',
+"Spyki Hair"='hairhitsugaya.dmi',"Ukitake Jushiro"='hairukitake.dmi',
 "Uryuu Ishida"='hairuryuu.dmi',"Sado Yasutora"='hairsado.dmi',
 "Zaraki Kenpachi"='hairzaraki.dmi',"Soi Fon"='hairsoifong.dmi',
 "Kariya"='hairkariya.dmi',"Nanao Ise"='hairnanao.dmi',"Bald"='bald.dmi',
