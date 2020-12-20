@@ -531,8 +531,7 @@ mob/proc/autoTrain(){
 			src.exp += 250
 			src.statpoints += 15
 		src.canattack = 0
-		if(src.icon == 'base.dmi')
-			src.icon_state = "Train"
+		src.icon_state = "Train"
 		// do stuff
 		sleep(30)
 	}
