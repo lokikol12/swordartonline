@@ -266,15 +266,15 @@ mob
 				else
 					if(usr.GM == 0)
 						if(usr.in_guild == 1)
-							world << "<font color=[usr.namecolor]><b>{[usr.guild_name]} <font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]</b></font>"
+							world << "<font color=[usr.namecolor]><b>{[usr.guild_name]}{[usr.status]} <font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]</b></font>"
 						else
-							world << "<font color=[usr.namecolor]><b>{none} <font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]<font></b>"
+							world << "<font color=[usr.namecolor]><b>{none} {[usr.status]} <font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]<font></b>"
 					else
 						if(usr.GM == 1)
-							world << "<font color=[usr.namecolor]><b>{[usr.guild_name]}{Beater} <font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]</b></font>"
+							world << "<font color=[usr.namecolor]><b>{[usr.guild_name]}{Beater} {[usr.status]}<font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]</b></font>"
 						if(usr.key == "Kodra777")
 
-							world << "<font color=[usr.namecolor]><b>{[usr.guild_name]}{Beater} <font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]</b></font>"
+							world << "<font color=[usr.namecolor]><b>{[usr.guild_name]}{Beater} {[usr.status]}<font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]</b></font>"
 					text2file("[time2text(world.realtime)]:[usr] (OOC): [msg]","logs/log.txt")
 					return
 		Race_Say(msg as text)
