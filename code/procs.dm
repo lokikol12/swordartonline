@@ -202,6 +202,7 @@ mob
 					M.boss12 += src.boss12
 					M.boss13 += src.boss13
 					M.boss14 += src.boss14
+					M.gottitlereward += src.gottitlereward // adds enemies src to yours M
 					M.levelup()
 					M.skill()
 					var/F
@@ -348,9 +349,18 @@ atom
 /////////////////
 
 
-
-
-
+mob/proc/givetitles()//procs in this file and have a certain set up
+	if(src.gottitlereward>=1)//checks if u have 1 or mroe kills
+		if(src.gottitle == 1)//checks if u got it before this is a 1 or 0 1 stops 0 lets u get it nothing else
+			return
+		if(src.gottitle ==0)//if not
+			src.status ="Barra Slayer"//you got it
+			outputMessage(world,"[src] has become a Barra Slayer","gametext")//output to world chat
+			src.gottitle = 1//gives 1 so cant claim again
+/*	if(src.gottitlereward2 >=1)
+		if(src.gottitle2 == 1)
+			return
+		*/
 
 
 

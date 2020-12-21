@@ -128,7 +128,7 @@ mob/enemy
 		strength = 100000
 		defence = 100000
 		mana = 100000
-		boss1 = 1
+		gottitlereward = 1
 		resistance = 10000
 		expgain = 90000
 		spawntime = 440
@@ -137,13 +137,7 @@ mob/enemy
 		Skills = list("bala")
 		gottitlereward = 1
 		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,100))
-		mob/proc/givetitles()
-			if(src.gottitlereward>=1)
-			if(src.gottitle = 0)
-				return
-			if(src.gottitle ==0)
-				src.status ="Barra Slayer"
-				src.gottilte = 1
+
 
 
 

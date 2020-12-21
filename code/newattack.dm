@@ -20,10 +20,7 @@ mob/verb/Attack()
 			src.attstyle = "Physical" //this is reset inside the takeDamage proc
 			flick("attack",src)
 			if(M.client)
-				if(!("Rebirth1" in M.traits))
-					M.defense()
-				else
-					M.defenserb()
+				M.defense()
 			if(src.client)
 				if(M.GM == 7)
 					outputMessage(view(4),"Immortal Object","gametext")
@@ -33,11 +30,9 @@ mob/verb/Attack()
 						src.canattack = 1
 						return
 			src.levelup()
+			src.givetitles()//checks on attack if they have enough for a title and claims it
 			if(src.client)
-				if(!("Rebirth1" in src.traits))
-					src.statgainst()
-				else
-					src.statgainstrb()
+				src.statgainst()
 			if(src.swordon == 1)
 				M.overlays += 'nslash.dmi'
 			if(src.swordon == 0)
@@ -45,12 +40,6 @@ mob/verb/Attack()
 			takeDamage(src,M) //src does the damage and M takes the damages
 			if(prob(20))
 				step(M,src.dir)
-				if(prob(10))
-					step(M,src.dir)
-					if(prob(5))
-						step(M,src.dir)
-						if(prob(5))
-							step(M,src.dir)
 			spawn(10)
 				M.overlays -= 'attack.dmi'
 				M.overlays -= 'nslash.dmi'

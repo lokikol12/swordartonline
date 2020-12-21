@@ -6,8 +6,10 @@ atom/movable/var
 obj/var
 	owner
 
-
+// any player or mob base vaules enemys and npcs are mobs as well.
 mob/var
+	gottitle = 0//sothere 0
+	gottitlereward = 0
 	statpoints = 10
 	spentpoints = 0
 	health = 30
