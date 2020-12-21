@@ -591,32 +591,3 @@ mob/release
 					usr.armon = 0
 					outputMessage(usr,"Your speed returned to normal","gametext")
 					rundelay = 2
-
-
-
-
-		GMSpeed()
-			set category = "GM"
-			set name = "GMSpeed"
-			if(usr.devil)
-				return
-			if(!usr.armon)
-				usr.armon = 1
-				rundelay = 1
-				spawn(120)
-				return
-
-
-		GMFlight()
-			set category = "GM"
-			set name = "GMFlight"
-			usr.density = 0
-			usr.rundelay = 1
-			return
-
-
-		GMLand()
-			set category = "GM"
-			set name = "GMLand"
-			usr.density = 1
-			return

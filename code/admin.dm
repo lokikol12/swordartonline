@@ -634,3 +634,34 @@ mob/owner
 					else
 						M.traits -= choice
 						usr << "<b>[choice] has been removed from [M]'s traits</b>"
+
+
+
+
+
+
+		GMSpeed()
+			set category = "GM"
+			set name = "GMSpeed"
+			if(usr.devil)
+				return
+			if(!usr.armon)
+				usr.armon = 1
+				rundelay = 1
+				spawn(120)
+				return
+
+
+		GMFlight()
+			set category = "GM"
+			set name = "GMFlight"
+			usr.density = 0
+			usr.rundelay = 1
+			return
+
+
+		GMLand()
+			set category = "GM"
+			set name = "GMLand"
+			usr.density = 1
+			return

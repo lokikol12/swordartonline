@@ -107,7 +107,6 @@ mob/Login()
 		src.verbs += typesof(/mob/admin/verb)
 		src.verbs += typesof(/mob/moderator/verb)
 		src.verbs += /mob/release/verb/EnchantSpeed
-		src.verbs += /mob/proc/unreleasetrueform
 		src.GM=2
 	if(src.key in Moderator)
 		src.verbs += typesof(/mob/moderator/verb)

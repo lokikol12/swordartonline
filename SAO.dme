@@ -32,7 +32,6 @@
 #define DEBUG
 // END_PREFERENCES
 // BEGIN_INCLUDE
-#include "Awards.dm"
 #include "skin.dmf"
 #include "SAO.dmm"
 #include "code\admin.dm"
