@@ -164,7 +164,7 @@ mob/var
 	inhom = 0
 	lv = 0
 	saiyan = 0
-	gifted = 0
+	BetaTester = 0
 	stubborn = 0
 	Skillsgain = 0
 	bankaikillsgain = 0

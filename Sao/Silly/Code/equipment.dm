@@ -1230,6 +1230,27 @@ obj/equipment
 				..()
 
 
+		NewCoat
+			layer = CLOTH_III_LAYER
+			name = "Cloath"
+			icon = 'NewOutfit.dmi'
+			statMods = list(3,3,3,3)
+			Wear()
+				if(usr.orbon1 == 1)
+					return
+				if(usr.orbon3 == 1)
+					return
+				if(usr.orbon2 == 1)
+					usr.resmod = usr.defaultresmod
+					usr.reimod = usr.defaultreimod
+					usr.strmod = usr.defaultstrmod
+					usr.defmod = usr.defaultdefmod
+					usr.orbon2 = 0
+				else
+					usr.orbon2 = 1
+				..()
+
+
 		FireOrbs
 			layer = CLOTH_III_LAYER
 			name = "Fire Orbs"

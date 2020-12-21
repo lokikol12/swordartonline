@@ -272,7 +272,7 @@ mob
 					else
 						if(usr.GM == 1)
 							world << "<font color=[usr.namecolor]><b>{[usr.guild_name]}{Beater} <font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]</b></font>"
-						if(usr.key == "Kodra777"||usr.key=="Gokuwarior212")
+						if(usr.key == "Kodra777")
 
 							world << "<font color=[usr.namecolor]><b>{[usr.guild_name]}{Beater} <font color=[usr.namecolor]>[usr]</font>:</font><font color=[usr.textcolor]> [msg]</b></font>"
 					text2file("[time2text(world.realtime)]:[usr] (OOC): [msg]","logs/log.txt")
@@ -595,5 +595,28 @@ mob/release
 
 
 
+		GMSpeed()
+			set category = "GM"
+			set name = "GMSpeed"
+			if(usr.devil)
+				return
+			if(!usr.armon)
+				usr.armon = 1
+				rundelay = 1
+				spawn(120)
+				return
 
 
+		GMFlight()
+			set category = "GM"
+			set name = "GMFlight"
+			usr.density = 0
+			usr.rundelay = 1
+			return
+
+
+		GMLand()
+			set category = "GM"
+			set name = "GMLand"
+			usr.density = 1
+			return

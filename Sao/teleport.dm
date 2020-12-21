@@ -333,7 +333,7 @@ turf
 				if(ismob(A))
 					var/mob/M = A
 					if(M.client)
-						usr.loc = locate(70,2,1)
+						usr.loc = locate(74,2,1)
 						usr.safe = 0
 					else
 						if(istype(A,/obj/))

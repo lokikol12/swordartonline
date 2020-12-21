@@ -135,7 +135,15 @@ mob/enemy
 		Cor = 25000
 		Corwas = 25000
 		Skills = list("bala")
+		gottitlereward = 1
 		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,100))
+		mob/proc/givetitles()
+			if(src.gottitlereward>=1)
+			if(src.gottitle = 0)
+				return
+			if(src.gottitle ==0)
+				src.status ="Barra Slayer"
+				src.gottilte = 1
 
 
 
@@ -207,6 +215,7 @@ mob/enemy
 		Corwas = 3500
 		Skills = list("CCero")
 		itemDrops = list(list(new/obj/equipment/legendary/Hougyokurobe,2))
+		itemDrops = list(list(new/obj/equipment/legendary/NewCoat,2))
 
 	larza
 		name = "{NPC}Mummy"
@@ -277,7 +286,6 @@ mob/enemy
 		Corwas = 12500
 		Skills = list("Cero","GranReyCero")
 		itemDrops = list(list(new/obj/equipment/legendary/hellarmor,2))
-
 
 
 

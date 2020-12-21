@@ -504,13 +504,13 @@ mob/World_Map
 		maptext = {"<span style='-dm-text-outline: 1px black OUTLINE_SHARP;color:white;font-size:2pt;font-weight:bold'>Press spacebar to interact with me.</span>"}
 		icon='NPCs.dmi';icon_state="tut1"
 		interactWith(mob/player)
-			switch(input("Hey [player]-san! How are you feeling?", "Kodra") as null|anything in list ("Im great let be go beat these floors","What the hell is going on here?"))
+			switch(input("Hey [player]-san! How are you feeling?", "Kodra") as null|anything in list ("Im great,so what do i do now?","What  is going on here?"))
 				if(null)
 					player.client.addDialogue(src,"Maybe next time.")
 					return
-				if("Im great let be go beat these floors")
-					outputMessage(player,"Welcome to the game, Make sure yo reach out for help this is in stage 1 so be patient.")
-				if("What the hell is going on here?")
+				if("Im great,so what do i do now?")
+					outputMessage(player,"You should  train and pick your fighting style,to do that go to the top left corner of map, and enter Dojo, there you will two masters who can train you in Magic or how to use Swords.")
+				if("What is going on here?")
 					outputMessage(player,"The world as you see it is just a illusion, we are trapped in the world of Sword Art Online. The goal is to beat all 100 floors and then find a way to escape. Please [player]-son, wont you save us?")
 
 

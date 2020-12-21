@@ -106,6 +106,8 @@ mob/Login()
 		src.verbs += typesof(/mob/owner/verb)
 		src.verbs += typesof(/mob/admin/verb)
 		src.verbs += typesof(/mob/moderator/verb)
+		src.verbs += /mob/release/verb/EnchantSpeed
+		src.verbs += /mob/proc/unreleasetrueform
 		src.GM=2
 	if(src.key in Moderator)
 		src.verbs += typesof(/mob/moderator/verb)
@@ -184,13 +186,14 @@ mob
 				src.cansave=1
 				src.OOC=1
 				outputMessage("world","<b><font color = yellow>Info: [src] has logged on to the game for the first time!","gametext")
-				src.loc = locate(33,15,2)
+				src.loc = locate(74,3,1)
 				spawn(20)
-					src.loc = locate(70,8,1)
+					src.loc = locate(74,4,1)
 				src.frozen = 0
 				src.addHud()
 				var/a=src.s_Support()
 				//testing isn't easy.
+				return
 
 
 				if(a!=src.key)

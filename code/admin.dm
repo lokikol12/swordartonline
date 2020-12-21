@@ -617,7 +617,7 @@ mob/owner
 				if(null)
 					return
 				if("Add")
-					choice = input("Which trait would you like to add?","Edit Traits") as null|anything in list("LevelLimit","LevelLimit2","Saiyan","Gifted","PhilosophersStone","Stubborn","Zaraki","Legendary Vaizard","Kurosaki","HighSpeed","Ishida","Vaizard","Hierro","Vasto","Kuchiki")
+					choice = input("Which trait would you like to add?","Edit Traits") as null|anything in list("LevelLimit","LevelLimit2","Saiyan","BetaTester","PhilosophersStone","Stubborn","Zaraki","Legendary Vaizard","Kurosaki","HighSpeed","Ishida","Vaizard","Hierro","Vasto","Kuchiki")
 					if(choice==null)
 						return
 					if(choice in M.traits)

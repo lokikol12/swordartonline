@@ -708,7 +708,7 @@ mob
 					while(src.exp>=src.mexp) //while current exp is higher than or equal to mexp
 						src.exp = src.exp-src.mexp //current exp is equal to current exp - maxexp
 						src.soulpower++ //add 1 to soulpower
-						if("Gifted" in src.traits) //if you have the Gifted trait
+						if("Beta Tester" in src.traits) //if you have the Beta Tester trait
 							src.mexp = round((src.soulpower*50)+((src.soulpower*50)*0.10)) //mexp is equal to soulpower multiplied by 25 plus 2% of that
 						else
 							src.mexp = round((src.soulpower*50)+((src.soulpower*45)*0.40)) //mexp is equal to soulpower multiplied by 25 plus 20% of that
