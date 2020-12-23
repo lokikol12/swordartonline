@@ -50184,3 +50184,5 @@ Sun Dec 20 21:53:58 2020:DarkAngel (OOC): Hi Auris
 Sun Dec 20 21:54:49 2020:(say) DarkAngel says, h
 Sun Dec 20 22:12:44 2020:Shieldbearer (OOC): Soooo. How do I make hair be one color, instead of the color I chose being added on top of the already existing hair color?
 Mon Dec 21 15:26:59 2020:Kodra (OOC): ll
+Mon Dec 21 18:17:39 2020:Akasha (OOC): 0
+Wed Dec 23 13:57:23 2020:DarkAngel (OOC): HHH
