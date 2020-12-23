@@ -1,12 +1,10 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1608572629
+LAST_COMPILE_TIME: 1608643714
 DIR: .git\hooks backup code dbz Fma fullbringer hollows icons icons\vaizard logs Newicons newmobs npcs2 playersaves quincy Sao Sao\Silly Sao\Silly\Code Silly Silly\Code turfreal 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1536
-WINDOW: icons\base.dmi;SAO.dmm;code\admin.dm;code\attackobjs.dm;code\enemies.dm;code\login.dm;code\newattack.dm
-FILE: icons\base.dmi
 */
 // END_INTERNALS

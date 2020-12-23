@@ -470,8 +470,8 @@ mob/World_Map
 
 
 	Nanao
-		name = "{NPC}Nobuyuki Sugou"
-		icon='NPCs.dmi';icon_state="Dangai"
+		name = "{NPC}Swordsman"
+		icon='NPCs.dmi';icon_state="Swordsman"
 		interactWith(mob/player)
 			if(player.soulpower>=10)
 				if(player.race != "BladeSmith")
@@ -486,8 +486,8 @@ mob/World_Map
 				return
 
 	Nanao2
-		name = "{NPC}Nobuyuki Sugou"
-		icon='NPCs.dmi';icon_state="Dangai"
+		name = "{NPC}Mage"
+		icon='NPCs.dmi';icon_state="Mage"
 		interactWith(mob/player)
 			if(player.soulpower>=10)
 				if(player.race != "Wizard")
