@@ -1229,7 +1229,7 @@ obj/equipment
 					usr.orbon2 = 1
 				..()
 
-
+// this needs to be armor on and mage armor and for each not orbon thats what lets u not stack it with other items
 		NewCoat
 			layer = CLOTH_III_LAYER
 			name = "Cloath"
@@ -1239,15 +1239,15 @@ obj/equipment
 				if(usr.orbon1 == 1)
 					return
 				if(usr.orbon3 == 1)
-					return
+					return//doesnt let u stack with others
 				if(usr.orbon2 == 1)
+					usr.orbon2 = 1//turns on
+				else
+					usr.orbon2 = 1//else unequip remove remove buffs
 					usr.resmod = usr.defaultresmod
 					usr.reimod = usr.defaultreimod
 					usr.strmod = usr.defaultstrmod
 					usr.defmod = usr.defaultdefmod
-					usr.orbon2 = 0
-				else
-					usr.orbon2 = 1
 				..()
 
 
