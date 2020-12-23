@@ -470,8 +470,8 @@ mob/World_Map
 
 
 	Nanao
-		name = "{NPC}Nobuyuki Sugou"
-		icon='NPCs.dmi';icon_state="Dangai"
+		name = "{NPC}Swordsman"
+		icon='NPCs.dmi';icon_state="Swordsman"
 		interactWith(mob/player)
 			if(player.soulpower>=10)
 				if(player.race != "BladeSmith")
@@ -486,8 +486,8 @@ mob/World_Map
 				return
 
 	Nanao2
-		name = "{NPC}Nobuyuki Sugou"
-		icon='NPCs.dmi';icon_state="Dangai"
+		name = "{NPC}Mage"
+		icon='NPCs.dmi';icon_state="Mage"
 		interactWith(mob/player)
 			if(player.soulpower>=10)
 				if(player.race != "Wizard")
@@ -504,12 +504,12 @@ mob/World_Map
 		maptext = {"<span style='-dm-text-outline: 1px black OUTLINE_SHARP;color:white;font-size:2pt;font-weight:bold'>Press spacebar to interact with me.</span>"}
 		icon='NPCs.dmi';icon_state="tut1"
 		interactWith(mob/player)
-			switch(input("Hey [player]-san! How are you feeling?", "Kodra") as null|anything in list ("Im great,so what do i do now?","What  is going on here?"))
+			switch(input("Hey [player]-san! How are you feeling?", "Kodra") as null|anything in list ("Im great,so what do i do now?","What is going on here?"))
 				if(null)
 					player.client.addDialogue(src,"Maybe next time.")
 					return
 				if("Im great,so what do i do now?")
-					outputMessage(player,"You should  train and pick your fighting style,to do that go to the top left corner of map, and enter Dojo, there you will two masters who can train you in Magic or how to use Swords.")
+					outputMessage(player,"You should  train and pick your fighting style,to do that go to the middle part  of map, and enter Dojo, there you will two masters who can train you in Magic or how to use Swords.")
 				if("What is going on here?")
 					outputMessage(player,"The world as you see it is just a illusion, we are trapped in the world of Sword Art Online. The goal is to beat all 100 floors and then find a way to escape. Please [player]-son, wont you save us?")
 
