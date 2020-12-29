@@ -1266,15 +1266,15 @@ obj/equipment
 					return
 				if(usr.armor5 == 1)
 					return
+				if(usr.armor9 == 1)
+					return
 				if(usr.armor6 == 1)
 					return
 				if(usr.armor7 == 1)
 					return
-				if(usr.armor8 == 1)
-					return
-				if(usr.armor9 == 1)
-					return
 				if(usr.armor10 == 1)
+					return
+				if(usr.armor8 == 1)
 					return
 				if(usr.armor11 == 1)
 					usr.resmod = usr.defaultresmod

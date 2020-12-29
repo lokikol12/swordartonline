@@ -155,28 +155,13 @@ mob
 			if(src.status)
 				stat("Rank: [status]")
 			stat("Floor: [floor]")
-			var/i
-			var/o
-			var/p
-			var/l
-			var/k
-			var/j
-			var/m
-			var/b
 			var/h
 			var/t
 			var/y
 			h = applycommas(Cor)
 			t = applycommas(round(exp))
 			y = applycommas(mexp)
-			b = applycommas(resistance)
-			m = applycommas(reiatsu)
-			k = applycommas(strength)
-			j = applycommas(defence)
-			p = applycommas(round(mana))
-			l = applycommas(mmana)
-			i = applycommas(round(health))
-			o = applycommas(mhealth)
+
 			var/f = defaultrundelay * 50
 			stat("-----------------------------------")
 			stat("Level: [src.soulpower]")
@@ -184,12 +169,12 @@ mob
 
 		//	stat("Server Online: [hours]:[minutes]:[seconds]")
 			stat("-----------------------------------")
-			stat("Health: [i]/[o]")
-			stat("Mana: [p]/[l]")
-			stat("Strength: [k]([usr.strmod]x)")
-			stat("Defence: [j]([usr.defmod]x)")
-			stat("Reiatsu: [m]([usr.reimod]x)")
-			stat("Resistance: [b]([usr.resmod]x)")
+			stat("Health: [applycommas(round(src.health))]/[applycommas(round(src.mhealth))]")
+			stat("Reiryoku: [applycommas(round(src.reiryoku))]/[applycommas(round(src.mreiryoku))]")
+			stat("Strength: [applycommas(round(src.strength))]([src.strmod]x)")
+			stat("Defence: [applycommas(round(src.defence))]([src.defmod]x)")
+			stat("Reiatsu: [applycommas(round(src.reiatsu))]([src.reimod]x)")
+			stat("Resistance: [applycommas(round(src.resistance))]([src.resmod]x)")
 			stat("Speed: [f]")
 			stat("-----------------------------------")
 			stat("Cor: [h]")
