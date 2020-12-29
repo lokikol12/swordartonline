@@ -511,8 +511,16 @@ mob/release
 					usr.frozen = 0
 					return
 			else
-				usr.unreleasetrueform()
-
+				usr.inhom = 0
+				rundelay = defaultrundelay
+				usr.verbs -= /mob/techniques/verb/trutheye
+				usr.overlays -= 'hm2.dmi'
+				usr.overlays -= 'hm3.dmi'
+				usr.rundelay = usr.defaultrundelay
+				usr.strmod = usr.defaultstrmod
+				usr.defmod = usr.defaultdefmod
+				usr.resmod = usr.defaultresmod
+				usr.reimod = usr.defaultreimod
 
 
 

@@ -100,10 +100,10 @@ mob/verb/respec()
 	set hidden = 1
 	if(!usr.spentpoints)
 		return
-	if(Cor < 100000000)
-		outputMessage(usr,"This costs 100 mill Cor")
+	if(Cor < 10000000000)
+		outputMessage(usr,"This costs 10b  Cor")
 		return
-	usr.Cor -= 100000000
+	usr.Cor -= 10000000000
 	usr.mhealth = ((usr.soulpower-1)*10)+25 //sets the max health equal to health you would have with 0 points put into health at your current lvl
 	if(usr.health > usr.mhealth)
 		usr.health = usr.mhealth

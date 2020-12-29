@@ -71,7 +71,7 @@ mob/enemy
 		boarkills = 1
 		Cor = 500
 		Corwas = 500
-		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,2))
+		itemDrops = list(list(new/obj/equipment/legendary/NewCoat,2))
 		itemDrops = list(list(new/obj/equipment/unique/LordSword,2))
 		itemDrops = list(list(new/obj/equipment/unique/staff,2))
 
@@ -93,7 +93,7 @@ mob/enemy
 		boarkills = 1
 		Cor = 800
 		Corwas = 800
-		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,1))
+		itemDrops = list(list(new/obj/equipment/legendary/NewCoat,1))
 		itemDrops = list(list(new/obj/equipment/unique/LordSword,10))
 		itemDrops = list(list(new/obj/equipment/unique/staff,1))
 
@@ -114,7 +114,7 @@ mob/enemy
 		Cor = 250
 		Corwas = 1000
 		itemDrops = list(list(new/obj/equipment/unique/LordSword,3))
-		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,3))
+		itemDrops = list(list(new/obj/equipment/legendary/NewCoat,3))
 		itemDrops = list(list(new/obj/equipment/unique/staff,2))
 
 	barra2
@@ -128,6 +128,7 @@ mob/enemy
 		strength = 100000
 		defence = 100000
 		mana = 100000
+		boss1 =1
 		gottitlereward = 1
 		resistance = 10000
 		expgain = 90000
@@ -136,7 +137,7 @@ mob/enemy
 		Corwas = 25000
 		Skills = list("bala")
 		gottitlereward = 1
-		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,100))
+		itemDrops = list(list(new/obj/equipment/legendary/NewCoat,100))
 
 
 
@@ -167,7 +168,7 @@ mob/enemy
 		Corwas = 1100
 		Skills = list("Cero")
 		itemDrops = list(list(new/obj/equipment/unique/NnotitraSword,1))
-		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,2))
+		itemDrops = list(list(new/obj/equipment/legendary/NewCoat,2))
 
 	Kratos
 		name = "{NPC}Servant of Darkness"
@@ -187,7 +188,7 @@ mob/enemy
 		spawntime = 250
 		Cor = 50000
 		Corwas = 50000
-		itemDrops = list(list(new/obj/equipment/legendary/LoyaltyArmor,2))
+		itemDrops = list(list(new/obj/equipment/legendary/NewCoat,2))
 		itemDrops = list(list(new/obj/equipment/unique/staffice,3))
 
 //floor 3
@@ -208,8 +209,8 @@ mob/enemy
 		Cor = 3500
 		Corwas = 3500
 		Skills = list("CCero")
-		itemDrops = list(list(new/obj/equipment/legendary/Hougyokurobe,2))
 		itemDrops = list(list(new/obj/equipment/legendary/NewCoat,2))
+
 
 	larza
 		name = "{NPC}Mummy"

@@ -861,6 +861,8 @@ obj/equipment
 					return
 				if(usr.armor9 == 1)
 					return
+				if(usr.armor11 == 1)
+					return
 				if(usr.armor10 == 1)
 					return
 				if(usr.armor4 == 1)
@@ -899,6 +901,8 @@ obj/equipment
 					return
 				if(usr.armor10 == 1)
 					return
+				if(usr.armor11 == 1)
+					return
 				if(usr.armor8 == 1)
 					return
 				if(usr.armor5 == 1)
@@ -930,6 +934,8 @@ obj/equipment
 				if(usr.armor9 == 1)
 					return
 				if(usr.armor7 == 1)
+					return
+				if(usr.armor11 == 1)
 					return
 				if(usr.armor8 == 1)
 					return
@@ -971,6 +977,8 @@ obj/equipment
 					return
 				if(usr.armor8 == 1)
 					return
+				if(usr.armor11 == 1)
+					return
 				if(usr.armor5 == 1)
 					return
 				if(usr.armor4 == 1)
@@ -1001,6 +1009,8 @@ obj/equipment
 				if(usr.armor4 == 1)
 					return
 				if(usr.armor7 == 1)
+					return
+				if(usr.armor11 == 1)
 					return
 				if(usr.armor9 == 1)
 					return
@@ -1035,6 +1045,8 @@ obj/equipment
 				if(usr.armor7 == 1)
 					return
 				if(usr.armor9 == 1)
+					return
+				if(usr.armor11 == 1)
 					return
 				if(usr.armor10 == 1)
 					return
@@ -1074,6 +1086,8 @@ obj/equipment
 					return
 				if(usr.armor9 == 1)
 					return
+				if(usr.armor11 == 1)
+					return
 				if(usr.armor7 == 1)
 					usr.resmod = usr.defaultresmod
 					usr.reimod = usr.defaultreimod
@@ -1107,6 +1121,8 @@ obj/equipment
 					return
 				if(usr.armor9 == 1)
 					return
+				if(usr.armor11 == 1)
+					return
 				if(usr.armor8 == 1)
 					usr.resmod = usr.defaultresmod
 					usr.reimod = usr.defaultreimod
@@ -1136,6 +1152,8 @@ obj/equipment
 				if(usr.armor6 == 1)
 					return
 				if(usr.armor7 == 1)
+					return
+				if(usr.armor11 == 1)
 					return
 				if(usr.armor8 == 1)
 					return
@@ -1171,6 +1189,8 @@ obj/equipment
 				if(usr.armor8 == 1)
 					return
 				if(usr.armor9 == 1)
+					return
+				if(usr.armor11 == 1)
 					return
 				if(usr.armor10 == 1)
 					usr.resmod = usr.defaultresmod
@@ -1234,20 +1254,36 @@ obj/equipment
 			layer = CLOTH_III_LAYER
 			name = "Cloath"
 			icon = 'NewOutfit.dmi'
-			statMods = list(3,3,3,3)
+			statMods = list(5,5,5,5)
 			Wear()
-				if(usr.orbon1 == 1)
+				if(usr.armor1 == 1)
 					return
-				if(usr.orbon3 == 1)
-					return//doesnt let u stack with others
-				if(usr.orbon2 == 1)
-					usr.orbon2 = 1//turns on
-				else
-					usr.orbon2 = 1//else unequip remove remove buffs
+				if(usr.armor2 == 1)
+					return
+				if(usr.armor3 == 1)
+					return
+				if(usr.armor4 == 1)
+					return
+				if(usr.armor5 == 1)
+					return
+				if(usr.armor6 == 1)
+					return
+				if(usr.armor7 == 1)
+					return
+				if(usr.armor8 == 1)
+					return
+				if(usr.armor9 == 1)
+					return
+				if(usr.armor10 == 1)
+					return
+				if(usr.armor11 == 1)
 					usr.resmod = usr.defaultresmod
 					usr.reimod = usr.defaultreimod
-					usr.strmod = usr.defaultstrmod
-					usr.defmod = usr.defaultdefmod
+					usr.reimod = usr.defaultreimod
+					usr.reimod = usr.defaultreimod
+					usr.armor11 = 0
+				else
+					usr.armor11 = 1
 				..()
 
 

@@ -1,21 +1,5 @@
 
 
-mob/proc/unreleasetrueform()
-	src.inhom = 0
-	rundelay = defaultrundelay
-	src.verbs -= /mob/techniques/verb/trutheye
-	src.overlays -= 'hm2.dmi'
-	src.overlays -= 'hm3.dmi'
-	src.strmod -= 4
-	src.defmod -= 4
-	src.reimod -= 4
-	src.resmod -= 4
-
-
-
-
-
-
 
 mob/proc/releaseBlade()
 	if(src.armon == 1)
