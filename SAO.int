@@ -1,10 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1608643714
-DIR: .git\hooks backup code dbz Fma fullbringer hollows icons icons\vaizard logs Newicons newmobs npcs2 playersaves quincy Sao Sao\Silly Sao\Silly\Code Silly Silly\Code turfreal 
+LAST_COMPILE_TIME: 1609276795
+DIR: .git\hooks code Sao Sao\Silly Sao\Silly\Code Silly\Code 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 513.1536
+LAST_COMPILE_VERSION: 512.1488
+WINDOW: code\updateguide.dm;SAO.dmm
+FILE: SAO.dmm
 */
 // END_INTERNALS

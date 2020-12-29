@@ -50186,3 +50186,675 @@ Sun Dec 20 22:12:44 2020:Shieldbearer (OOC): Soooo. How do I make hair be one co
 Mon Dec 21 15:26:59 2020:Kodra (OOC): ll
 Mon Dec 21 18:17:39 2020:Akasha (OOC): 0
 Wed Dec 23 13:57:23 2020:DarkAngel (OOC): HHH
+Sat Dec 26 21:48:00 2020:Alex Ovide (OOC): hey
+Sat Dec 26 21:49:42 2020:Keishi (OOC): Yo
+Sat Dec 26 21:50:33 2020:Keishi (OOC): None of the cloths fits the body >:-)
+Tue Dec 29 03:02:52 2020:Koyoto (OOC): surp
+Tue Dec 29 03:04:35 2020:Bam (OOC): just trying to find the spot to choose my class 
+Tue Dec 29 03:05:26 2020:Koyoto (OOC): should be middle hut
+Tue Dec 29 03:06:17 2020:Koyoto (OOC): not sure how to get off floor one yet
+Tue Dec 29 03:07:08 2020:Koyoto (OOC): oof
+Tue Dec 29 03:08:00 2020:Koyoto (OOC): the area to mobs in bottom left corner
+Tue Dec 29 03:23:21 2020:Koyoto (OOC): oh damn 500 levels
+Tue Dec 29 03:25:55 2020:Bam (OOC): can't equip stuff 
+Tue Dec 29 03:25:55 2020:Koyoto (OOC): there is a verb in your tabs
+Tue Dec 29 03:25:55 2020:Koyoto (OOC): fix sword/staff
+Tue Dec 29 03:26:46 2020:Koyoto (OOC): use it to unequip stuff
+Tue Dec 29 03:28:28 2020:Koyoto (OOC): hmm  I think tahts pretty much it
+Tue Dec 29 03:28:28 2020:Koyoto (OOC): going back to other game
+Tue Dec 29 19:45:32 2020:Bam (OOC): I'm THE Barra Slayer you know
+Tue Dec 29 19:46:24 2020:Kodra (OOC): u killed him and it didnt open
+Tue Dec 29 19:46:24 2020:Bam (OOC): Beat the boss firstBeat the boss firstBeat the boss firstBeat the boss firstBeat the boss firstBeat the boss first
+Tue Dec 29 19:47:15 2020:Bam (OOC): how'd you do that 
+Tue Dec 29 19:47:15 2020:Kodra (OOC): do what
+Tue Dec 29 19:47:15 2020:Bam (OOC): did you summon me or is the portal running now? 
+Tue Dec 29 19:47:15 2020:Kodra (OOC): i gave u boss win 1
+Tue Dec 29 19:48:06 2020:Kodra (OOC): for some reason it didnt give u it
+Tue Dec 29 19:48:06 2020:Kodra (OOC): thats all
+Tue Dec 29 19:48:06 2020:Kodra (OOC): this npc
+Tue Dec 29 19:48:06 2020:Bam (OOC): hm 
+Tue Dec 29 19:48:06 2020:Kodra (OOC): for skill
+Tue Dec 29 19:48:06 2020:Kodra (OOC): each floor
+Tue Dec 29 19:48:06 2020:Bam (OOC): speeeeed 
+Tue Dec 29 19:48:06 2020:Kodra (OOC): yesir
+Tue Dec 29 19:49:48 2020:Bam (OOC): oh I didn't get a new rank with that boss 
+Tue Dec 29 19:49:48 2020:Bam (OOC): aw
+Tue Dec 29 19:51:31 2020:Kodra (OOC): only one rank rn yeah
+Tue Dec 29 19:51:31 2020:Kodra (OOC): thats a new gig for this for bosses coming lol 
+Tue Dec 29 19:51:31 2020:Kodra (OOC): jus fixed floor 1
+Tue Dec 29 19:51:31 2020:Kodra (OOC): also new icons
+Tue Dec 29 19:51:31 2020:Kodra (OOC): so its shit rn
+Tue Dec 29 19:51:31 2020:Kodra (OOC): new base
+Tue Dec 29 19:51:31 2020:Kodra (OOC): only that one suit fits
+Tue Dec 29 19:51:31 2020:Kodra (OOC): ima make it a common drop till i fix others
+Tue Dec 29 19:52:22 2020:Bam (OOC): it has potential 
+Tue Dec 29 19:52:22 2020:Kodra (OOC): theres 15-18 floors
+Tue Dec 29 19:52:22 2020:Kodra (OOC): btw
+Tue Dec 29 19:54:04 2020:Bam (OOC): parameters accepted 
+Tue Dec 29 20:02:36 2020:Koyoto (OOC): surp
+Tue Dec 29 20:03:28 2020:Koyoto (OOC): okay how do I get past floor 1
+Tue Dec 29 20:04:19 2020:Bam (OOC): you know those black doors? behind like the class building? 
+Tue Dec 29 20:04:19 2020:Koyoto (OOC): ight
+Tue Dec 29 20:04:19 2020:Bam (OOC): Go kill Barragan 
+Tue Dec 29 20:04:19 2020:Koyoto (OOC): hmm I don't see black doors
+Tue Dec 29 20:04:19 2020:Bam (OOC): They are merely door shaped 
+Tue Dec 29 20:04:19 2020:Koyoto (OOC): ah the gates
+Tue Dec 29 20:05:10 2020:Bam (OOC): why didn't I just say ender portals 
+Tue Dec 29 20:05:10 2020:Bam (OOC): >ender 
+Tue Dec 29 20:05:10 2020:Bam (OOC): nether 
+Tue Dec 29 20:06:01 2020:Bam (OOC): hm 4th floor is pretty big 
+Tue Dec 29 20:06:52 2020:Koyoto (OOC): hmm still says beat boss first after killing black knight
+Tue Dec 29 20:06:52 2020:Bam (OOC): it did that to me too, kodra had to fix me 
+Tue Dec 29 20:11:08 2020:Bam (OOC): oh shit 
+Tue Dec 29 20:12:00 2020:Bam (OOC): talk to the big grim reaper guy when you clear a floor for a skill 
+Tue Dec 29 20:13:42 2020:Koyoto (OOC): I think kodra went afk
+Tue Dec 29 20:13:42 2020:Koyoto (OOC): so I'm stuck on floor 1 for now
+Tue Dec 29 20:14:33 2020:Bam (OOC): I can at least kill stuff for you for now 
+Tue Dec 29 20:14:33 2020:Koyoto (OOC): nm
+Tue Dec 29 20:14:33 2020:Connorb (OOC): hihi i decided to join 
+Tue Dec 29 20:14:33 2020:Connorb (OOC): hey bam xD 
+Tue Dec 29 20:14:33 2020:Bam (OOC): hello 
+Tue Dec 29 20:14:33 2020:Bam (OOC): how the turn tables 
+Tue Dec 29 20:14:33 2020:Koyoto (OOC): hmm still wants me to beat boss first
+Tue Dec 29 20:15:24 2020:Koyoto (OOC): ripz
+Tue Dec 29 20:15:24 2020:Connorb (OOC): gonna afk for abit doe 
+Tue Dec 29 20:15:24 2020:Connorb (OOC): then proper test dis out 
+Tue Dec 29 20:21:23 2020:(say) Kodra says, have better clothes
+Tue Dec 29 20:21:23 2020:Koyoto (OOC): nah not yet
+Tue Dec 29 20:21:23 2020:Koyoto (OOC): ah
+Tue Dec 29 20:22:14 2020:Kodra (OOC): only clothes for this base rn
+Tue Dec 29 20:22:14 2020:Bam (OOC): fifth floor 
+Tue Dec 29 20:23:56 2020:Koyoto (OOC): nice
+Tue Dec 29 20:24:48 2020:Bam (OOC): oh god he's here too 
+Tue Dec 29 20:24:48 2020:Bam (OOC): why have you done this 
+Tue Dec 29 20:25:39 2020:Koyoto (OOC): Which one
+Tue Dec 29 20:25:39 2020:Bam (OOC): The nazi bowman 
+Tue Dec 29 20:27:21 2020:Kodra (OOC): lol
+Tue Dec 29 20:28:12 2020:Kodra (OOC): fill up sao discord with ideas and shit to
+Tue Dec 29 20:28:12 2020:Kodra (OOC): xD
+Tue Dec 29 20:29:04 2020:Koyoto (OOC): Send everyone here whipe you wipe hollow universe
+Tue Dec 29 20:29:55 2020:Bam (OOC): oh wow alright I gotta stop to stat for a while 
+Tue Dec 29 20:29:55 2020:Kodra (OOC): i need reboot
+Tue Dec 29 20:29:55 2020:Kodra (OOC): i did change
+Tue Dec 29 20:29:55 2020:Kodra (OOC): so the good armor drops on first 3 floor
+Tue Dec 29 20:30:46 2020:Kodra (OOC): so at least people get the good suit
+Tue Dec 29 20:30:46 2020:Koyoto (OOC): can you make walking speed a bit faster too
+Tue Dec 29 20:30:46 2020:Kodra (OOC): xD
+Tue Dec 29 20:30:46 2020:Kodra (OOC): on floor 2
+Tue Dec 29 20:30:46 2020:Kodra (OOC): u get speed
+Tue Dec 29 20:30:46 2020:Koyoto (OOC): yeah but it cools down so fast
+Tue Dec 29 20:30:46 2020:Bam (OOC): someone left a bunch of the most expensive stuff in the main spawn so I'm pretty set 
+Tue Dec 29 20:30:46 2020:Kodra (OOC): ah dang
+Tue Dec 29 20:30:46 2020:Kodra (OOC): true you get perm speed at floor 10
+Tue Dec 29 20:31:37 2020:Bam (OOC): sounds like I need to get to floor ten then 
+Tue Dec 29 20:31:37 2020:Koyoto (OOC): free 500 levelz
+Tue Dec 29 20:32:28 2020:Koyoto (OOC): oof your defense
+Tue Dec 29 20:32:28 2020:Bam (OOC): my truthseeker orbs don't wanna work at all ngl 
+Tue Dec 29 20:32:28 2020:Kodra (OOC): nah they wont stack with the good lookin armor
+Tue Dec 29 20:32:28 2020:Kodra (OOC): rn
+Tue Dec 29 20:32:28 2020:Kodra (OOC): fire and ice will
+Tue Dec 29 20:32:28 2020:Kodra (OOC): try drop em all
+Tue Dec 29 20:32:28 2020:Bam (OOC): oh yeah man I afked like allllllll night until like a hour ago self training 
+Tue Dec 29 20:33:20 2020:Kodra (OOC): then use orbs and new armor
+Tue Dec 29 20:33:20 2020:Kodra (OOC): supposed be 1 armor only
+Tue Dec 29 20:33:20 2020:Kodra (OOC): not 10
+Tue Dec 29 20:33:20 2020:Kodra (OOC): so thats a bug 
+Tue Dec 29 20:33:20 2020:Bam (OOC): I have many 
+Tue Dec 29 20:33:20 2020:Bam (OOC): indeed 
+Tue Dec 29 20:33:20 2020:Kodra (OOC): take them all off
+Tue Dec 29 20:33:20 2020:Kodra (OOC): and try to equip them
+Tue Dec 29 20:33:20 2020:Kodra (OOC): only one should
+Tue Dec 29 20:33:20 2020:Bam (OOC): 25.5 9 11 9 are my multis 
+Tue Dec 29 20:33:20 2020:Kodra (OOC): bam remove your armors
+Tue Dec 29 20:33:20 2020:Kodra (OOC): and only use 1
+Tue Dec 29 20:34:11 2020:Kodra (OOC): i think its only the new armor
+Tue Dec 29 20:34:11 2020:Kodra (OOC): long 3 mins xD
+Tue Dec 29 20:34:11 2020:Koyoto (OOC): wait intenseifies
+Tue Dec 29 20:35:02 2020:Bam (OOC): yeah they not working 
+Tue Dec 29 20:35:02 2020:Kodra (OOC): yeah its only the good lookin one
+Tue Dec 29 20:35:02 2020:Bam (OOC): and I lost the fight cause I was naked 
+Tue Dec 29 20:35:53 2020:Kodra (OOC): ton money still
+Tue Dec 29 20:35:53 2020:Kodra (OOC): floor 5 u get high speed mana and hp
+Tue Dec 29 20:35:53 2020:Kodra (OOC): for cor
+Tue Dec 29 20:35:53 2020:Bam (OOC): "haha" 
+Tue Dec 29 20:35:53 2020:Bam (OOC): yeah for billions of it 
+Tue Dec 29 20:36:44 2020:Kodra (OOC): true true
+Tue Dec 29 20:39:18 2020:Koyoto (OOC): oh and punching bags don't work
+Tue Dec 29 20:41:00 2020:Kodra (OOC): wym
+Tue Dec 29 20:41:52 2020:Kodra (OOC): not the room im in
+Tue Dec 29 20:41:52 2020:Kodra (OOC): but theres a room south of me that has em
+Tue Dec 29 20:41:52 2020:Koyoto (OOC): I've tried them in every room
+Tue Dec 29 20:41:52 2020:Kodra (OOC): nah come floor 1
+Tue Dec 29 20:41:52 2020:Kodra (OOC): ill show ya
+Tue Dec 29 20:41:52 2020:Koyoto (OOC): ahh
+Tue Dec 29 20:41:52 2020:Connorb (OOC): can i le join guild bam 
+Tue Dec 29 20:43:34 2020:Bam (OOC): I didn't make it 
+Tue Dec 29 20:43:34 2020:Koyoto (OOC): I made you co leader
+Tue Dec 29 20:43:34 2020:Connorb (OOC): ohh so 0 xp from guild nice
+Tue Dec 29 20:44:25 2020:Bam (OOC): wait is it actually not sharing exp
+Tue Dec 29 20:44:25 2020:Connorb (OOC): saying ya getting kills but 0 xp
+Tue Dec 29 20:44:25 2020:Koyoto (OOC): same but I'm still leveling up from it
+Tue Dec 29 20:44:25 2020:Connorb (OOC): i died now im in a black screen?
+Tue Dec 29 20:45:16 2020:Koyoto (OOC): goto other and use teleport floor 1
+Tue Dec 29 20:46:08 2020:Connorb (OOC): ty
+Tue Dec 29 20:46:59 2020:Bam (OOC): -_-
+Tue Dec 29 20:47:50 2020:Connorb (OOC): magic or blade whats better
+Tue Dec 29 20:48:41 2020:Kodra (OOC): mhm when u die black screen
+Tue Dec 29 20:48:41 2020:Kodra (OOC): should be able to spawn points in hospitals
+Tue Dec 29 20:48:41 2020:Bam (OOC): hsven't tried magic yet, it may be op who knows 
+Tue Dec 29 20:52:06 2020:Kodra (OOC): id be happy take a bug report on discord
+Tue Dec 29 20:52:06 2020:Kodra (OOC): not that ill be quick on it
+Tue Dec 29 20:52:06 2020:Kodra (OOC): need do bleach xD
+Tue Dec 29 20:52:06 2020:Kodra (OOC): but deff can make progress here
+Tue Dec 29 20:52:06 2020:Koyoto (OOC): Hmm
+Tue Dec 29 20:52:06 2020:Kodra (OOC): armor icons ik are all broken
+Tue Dec 29 20:52:06 2020:Koyoto (OOC): You could show down bleach and do your wipe early while fixing bugs and send everyone here to get as much reported as possible
+Tue Dec 29 20:52:57 2020:Kodra (OOC): but besides that go for it
+Tue Dec 29 20:52:57 2020:Kodra (OOC): i was going shut it down
+Tue Dec 29 20:52:57 2020:Kodra (OOC): on 31
+Tue Dec 29 20:52:57 2020:Kodra (OOC): for a day maybe less
+Tue Dec 29 20:52:57 2020:Kodra (OOC): to get some work in offline
+Tue Dec 29 20:52:57 2020:Kodra (OOC): but dats proli it
+Tue Dec 29 20:53:48 2020:Koyoto (OOC): Because I don't think anyones really actively training on it atm
+Tue Dec 29 20:53:48 2020:Koyoto (OOC): at least not at the pace I was rofl
+Tue Dec 29 20:53:48 2020:Bam (OOC): wym I almost have my first legendary form 
+Tue Dec 29 20:53:48 2020:Kodra (OOC): koy u you went hard
+Tue Dec 29 20:54:40 2020:Kodra (OOC): and got burnt out xD
+Tue Dec 29 20:54:40 2020:Kodra (OOC): its normal
+Tue Dec 29 20:54:40 2020:Koyoto (OOC): Nah I was gonna remake because you added in the 500 bil to reaching 1mil
+Tue Dec 29 20:54:40 2020:Kodra (OOC): cant wait for this game to git gud
+Tue Dec 29 20:54:40 2020:Koyoto (OOC): but I was like eh I can kinda kill everything so no point
+Tue Dec 29 20:54:40 2020:Kodra (OOC): that and the tril for final kill rank
+Tue Dec 29 20:54:40 2020:Kodra (OOC): next wipe
+Tue Dec 29 20:54:40 2020:Kodra (OOC): early goals
+Tue Dec 29 20:55:31 2020:Kodra (OOC): and bp for dodge and crit % 
+Tue Dec 29 20:55:31 2020:Kodra (OOC): vs jus stats powa
+Tue Dec 29 20:55:31 2020:Koyoto (OOC): Yeah next sesh I'm gonna go for kill rank first
+Tue Dec 29 20:55:31 2020:Koyoto (OOC): and not leech anyone
+Tue Dec 29 20:55:31 2020:Kodra (OOC): xD
+Tue Dec 29 20:55:31 2020:Kodra (OOC): make em all be slow
+Tue Dec 29 20:55:31 2020:Koyoto (OOC): Dude should be done with my custom icons soon too
+Tue Dec 29 20:56:22 2020:Kodra (OOC): thats cool to
+Tue Dec 29 20:56:22 2020:Koyoto (OOC): so potential new class for everyone
+Tue Dec 29 20:56:22 2020:Bam (OOC): xo xo gossip girl 
+Tue Dec 29 20:56:22 2020:Kodra (OOC): oh really doing a public race
+Tue Dec 29 20:56:22 2020:Kodra (OOC): shweet people love you for tht
+Tue Dec 29 20:57:13 2020:Kodra (OOC): some iconner i know wants to do titan race
+Tue Dec 29 20:57:13 2020:Kodra (OOC): but without icons im like mhm
+Tue Dec 29 20:57:13 2020:Kodra (OOC): lmk
+Tue Dec 29 21:00:38 2020:Koyoto (OOC): Player kills for titan forms
+Tue Dec 29 21:00:38 2020:Connorb (OOC): brb gonna smoke 
+Tue Dec 29 21:06:36 2020:Connorb (OOC): bk
+Tue Dec 29 21:07:28 2020:Connorb (OOC): now to se if i can ill the little black tings
+Tue Dec 29 21:08:19 2020:Connorb (OOC): nope cant ouch
+Tue Dec 29 21:09:10 2020:Connorb (OOC): hey roy
+Tue Dec 29 21:09:10 2020:Royds (OOC): oo flashy flash
+Tue Dec 29 21:10:01 2020:Royds (OOC): YOURE A WIZARD HARRY
+Tue Dec 29 21:10:01 2020:Connorb (OOC): xD 
+Tue Dec 29 21:10:01 2020:Connorb (OOC): i just legit finished building a harry potter lego set
+Tue Dec 29 21:11:44 2020:Royds (OOC): shit how do i have more str than def and rei if all im doing is self train
+Tue Dec 29 21:11:44 2020:Kodra (OOC): whu
+Tue Dec 29 21:11:44 2020:Connorb (OOC): i wanna be a wizard roy
+Tue Dec 29 21:11:44 2020:Royds (OOC): lmao
+Tue Dec 29 21:12:35 2020:Kodra (OOC): no wizard larrys
+Tue Dec 29 21:12:35 2020:Connorb (OOC): koy becomae a wizard
+Tue Dec 29 21:12:35 2020:Royds (OOC): 0 exp from connors kills
+Tue Dec 29 21:12:35 2020:Royds (OOC): LOL
+Tue Dec 29 21:12:35 2020:Connorb (OOC): you still get xp xD
+Tue Dec 29 21:12:35 2020:Kodra (OOC): just doesnt show
+Tue Dec 29 21:12:35 2020:Royds (OOC): ah
+Tue Dec 29 21:12:35 2020:Kodra (OOC): ill update it soon to fix guild exp
+Tue Dec 29 21:12:35 2020:Kodra (OOC): it shares 50% tho
+Tue Dec 29 21:13:26 2020:Connorb (OOC): im getting no drops big sad
+Tue Dec 29 21:13:26 2020:Royds (OOC): kodra you see this shit
+Tue Dec 29 21:13:26 2020:Kodra (OOC): lmao i do
+Tue Dec 29 21:13:26 2020:Royds (OOC): man is walking around swinging his fist
+Tue Dec 29 21:13:26 2020:Connorb (OOC): lol
+Tue Dec 29 21:13:26 2020:Connorb (OOC): how tf you do that 
+Tue Dec 29 21:13:26 2020:Royds (OOC): ooo
+Tue Dec 29 21:14:17 2020:Royds (OOC): i was self training then i stopped
+Tue Dec 29 21:14:17 2020:DarkAngel (OOC): Hello
+Tue Dec 29 21:14:17 2020:Royds (OOC): hello dark >:D
+Tue Dec 29 21:14:17 2020:Royds (OOC): tis i
+Tue Dec 29 21:14:17 2020:Royds (OOC): a wizard
+Tue Dec 29 21:15:08 2020:Connorb (OOC): i cant equip sword
+Tue Dec 29 21:15:08 2020:Royds (OOC): rip cant unequip my sword
+Tue Dec 29 21:15:08 2020:(say) DarkAngel says, Thank you for coming everyone :D
+Tue Dec 29 21:15:08 2020:Kodra (OOC): ryods other tab
+Tue Dec 29 21:15:08 2020:Royds (OOC): you cant equip and i cant unequip
+Tue Dec 29 21:15:08 2020:Kodra (OOC): have a remove all
+Tue Dec 29 21:15:08 2020:Kodra (OOC): and u cant stack
+Tue Dec 29 21:15:08 2020:Kodra (OOC): unless its the right sword combo
+Tue Dec 29 21:16:00 2020:Royds (OOC): why cant i equip the unity am i too much of a noob
+Tue Dec 29 21:16:00 2020:Kodra (OOC): ryods use fix all
+Tue Dec 29 21:16:00 2020:Kodra (OOC): in other tab
+Tue Dec 29 21:16:00 2020:Kodra (OOC): then u good
+Tue Dec 29 21:16:51 2020:Connorb (OOC): xD
+Tue Dec 29 21:16:51 2020:Koyoto (OOC): ROFL
+Tue Dec 29 21:16:51 2020:Royds (OOC): lmao
+Tue Dec 29 21:16:51 2020:Royds (OOC): where i fix all
+Tue Dec 29 21:16:51 2020:Kodra (OOC): tbh remake ryods
+Tue Dec 29 21:16:51 2020:Royds (OOC): nvm
+Tue Dec 29 21:16:51 2020:Kodra (OOC): u got the old base
+Tue Dec 29 21:16:51 2020:Kodra (OOC): idk how
+Tue Dec 29 21:16:51 2020:Kodra (OOC): xD
+Tue Dec 29 21:16:51 2020:Royds (OOC): cause i came on before all you guys
+Tue Dec 29 21:16:51 2020:Royds (OOC): i am a true beater
+Tue Dec 29 21:17:42 2020:Kodra (OOC): oml 
+Tue Dec 29 21:17:42 2020:Connorb (OOC): think i found a bug
+Tue Dec 29 21:18:33 2020:Kodra (OOC): what is it
+Tue Dec 29 21:18:33 2020:Royds (OOC): ofc koyo is op here too
+Tue Dec 29 21:18:33 2020:Koyoto (OOC): hax
+Tue Dec 29 21:18:33 2020:Connorb (OOC): the add overlay xD 
+Tue Dec 29 21:18:33 2020:Connorb (OOC): also koy become a wizard like us 
+Tue Dec 29 21:19:24 2020:Connorb (OOC): roy look at koy being a raider
+Tue Dec 29 21:19:24 2020:Koyoto (OOC): Neverrr
+Tue Dec 29 21:20:16 2020:Koyoto (OOC): About to raid those wombs
+Tue Dec 29 21:20:16 2020:Connorb (OOC): xD
+Tue Dec 29 21:20:16 2020:Royds (OOC): ill remake after tourny
+Tue Dec 29 21:20:16 2020:Royds (OOC): if i win
+Tue Dec 29 21:20:16 2020:Connorb (OOC): i mean the wizards have a guy running around punching the air non stop
+Tue Dec 29 21:20:16 2020:Connorb (OOC): a true wizard 
+Tue Dec 29 21:20:16 2020:Royds (OOC): it a penis
+Tue Dec 29 21:20:16 2020:Koyoto (OOC): remake now so you can rejoin and get free levelz
+Tue Dec 29 21:21:07 2020:Royds (OOC): im gonna win this
+Tue Dec 29 21:21:07 2020:Connorb (OOC): roy make kooo leader of guild so ya can rejoin it 
+Tue Dec 29 21:21:07 2020:Royds (OOC): ahahahah
+Tue Dec 29 21:21:07 2020:Royds (OOC): o wait
+Tue Dec 29 21:21:07 2020:Royds (OOC): whut
+Tue Dec 29 21:21:58 2020:Royds (OOC): cant i have to boot you guys
+Tue Dec 29 21:21:58 2020:Connorb (OOC): so this is a ting
+Tue Dec 29 21:21:58 2020:Kodra (OOC): so rapid updates
+Tue Dec 29 21:21:58 2020:Kodra (OOC): ok
+Tue Dec 29 21:21:58 2020:Kodra (OOC): rebooting
+Tue Dec 29 21:21:58 2020:Kodra (OOC): i didlike 5 things xD
+Tue Dec 29 21:22:49 2020:Connorb (OOC): work faster xD 
+Tue Dec 29 21:22:49 2020:Royds (OOC): nice
+Tue Dec 29 21:22:49 2020:Royds (OOC): shit
+Tue Dec 29 21:22:49 2020:Kodra (OOC): lol were all here rn so no biggie
+Tue Dec 29 21:22:49 2020:Royds (OOC): i deleted all the nice drops i had
+Tue Dec 29 21:22:49 2020:Koyoto (OOC): 3 wins zero losses. The champpp
+Tue Dec 29 21:24:32 2020:Kodra (OOC): alright gg
+Tue Dec 29 21:24:32 2020:Kodra (OOC): oops
+Tue Dec 29 21:25:23 2020:Royds (OOC): shit i wish it was like this in real life
+Tue Dec 29 21:25:23 2020:Kodra (OOC): like whut
+Tue Dec 29 21:25:23 2020:Royds (OOC): swing my fist around a bit and have 150k dollars
+Tue Dec 29 21:25:23 2020:Kodra (OOC): lmao
+Tue Dec 29 21:26:14 2020:Kodra (OOC): this game has no caps tho
+Tue Dec 29 21:26:14 2020:Kodra (OOC): level wise
+Tue Dec 29 21:26:14 2020:Kodra (OOC): or anything
+Tue Dec 29 21:26:14 2020:Royds (OOC): no cap eh
+Tue Dec 29 21:26:14 2020:Kodra (OOC): no ones got passed like level 30k tho
+Tue Dec 29 21:26:14 2020:Kodra (OOC): no rbs
+Tue Dec 29 21:26:14 2020:Royds (OOC): thats cause i havent played yet
+Tue Dec 29 21:26:14 2020:Kodra (OOC): non
+Tue Dec 29 21:27:05 2020:Kodra (OOC): pretty straight forward
+Tue Dec 29 21:27:05 2020:Kodra (OOC): beast floor
+Tue Dec 29 21:27:05 2020:Kodra (OOC): floors and bosses
+Tue Dec 29 21:27:05 2020:Royds (OOC): i am now a warlock!
+Tue Dec 29 21:27:05 2020:Kodra (OOC): floor 10 u get wings
+Tue Dec 29 21:27:05 2020:Kodra (OOC): xD
+Tue Dec 29 21:27:05 2020:Kodra (OOC): untill floor 10
+Tue Dec 29 21:27:05 2020:Kodra (OOC): u can switch mage or blade
+Tue Dec 29 21:27:05 2020:Kodra (OOC): and get a diff type of skill
+Tue Dec 29 21:27:05 2020:Kodra (OOC): each floor
+Tue Dec 29 21:27:56 2020:Kodra (OOC): so could make for some interestings combos
+Tue Dec 29 21:27:56 2020:Connorb (OOC): wheres floor 1 boss
+Tue Dec 29 21:27:56 2020:Kodra (OOC): behind the race dude
+Tue Dec 29 21:27:56 2020:Royds (OOC): i am dead
+Tue Dec 29 21:27:56 2020:Royds (OOC): time to remake
+Tue Dec 29 21:27:56 2020:Royds (OOC): dead forever
+Tue Dec 29 21:27:56 2020:Connorb (OOC): wheres that xD 
+Tue Dec 29 21:28:48 2020:Royds (OOC): uh
+Tue Dec 29 21:28:48 2020:Connorb (OOC): go other and teleport to floor 1 
+Tue Dec 29 21:28:48 2020:Kodra (OOC): this way
+Tue Dec 29 21:28:48 2020:Royds (OOC): o you get stuck in spawn
+Tue Dec 29 21:28:48 2020:Kodra (OOC): mhm
+Tue Dec 29 21:29:39 2020:Royds (OOC): fuck these guys are oo
+Tue Dec 29 21:29:39 2020:Royds (OOC): op
+Tue Dec 29 21:29:39 2020:Royds (OOC): are they the weakest mob
+Tue Dec 29 21:29:39 2020:Royds (OOC): koyo give me zenkai pls
+Tue Dec 29 21:29:39 2020:Kodra (OOC): no theres boars
+Tue Dec 29 21:29:39 2020:Kodra (OOC): south of this place in a portal
+Tue Dec 29 21:30:30 2020:Royds (OOC): shit i had a wizard staff before i remade now i have a sword
+Tue Dec 29 21:30:30 2020:Royds (OOC): i forgot to drop my stuff before
+Tue Dec 29 21:31:21 2020:(say) Kodra says, here
+Tue Dec 29 21:31:21 2020:(say) Royds says, ty
+Tue Dec 29 21:31:21 2020:(say) Kodra says, np
+Tue Dec 29 21:31:21 2020:Connorb (OOC): oh hi 
+Tue Dec 29 21:32:12 2020:(say) Kodra says, remove it all
+Tue Dec 29 21:32:12 2020:(say) Kodra says, and stack it proper
+Tue Dec 29 21:32:12 2020:(say) Kodra says, xD
+Tue Dec 29 21:32:12 2020:Connorb (OOC): fancy seeing you here 
+Tue Dec 29 21:32:12 2020:(say) Kodra says, nice
+Tue Dec 29 21:32:12 2020:Kodra (OOC): ow
+Tue Dec 29 21:32:12 2020:Connorb (OOC): boop xD
+Tue Dec 29 21:32:12 2020:Kodra (OOC): death
+Tue Dec 29 21:32:12 2020:Kodra (OOC): i see
+Tue Dec 29 21:32:12 2020:Kodra (OOC): at floor 5
+Tue Dec 29 21:33:04 2020:Kodra (OOC): make your spawn point the hosital
+Tue Dec 29 21:33:55 2020:Royds (OOC): ko make exp rate in bleach 400%
+Tue Dec 29 21:33:55 2020:Connorb (OOC): how
+Tue Dec 29 21:34:46 2020:Royds (OOC): talk to the npc
+Tue Dec 29 21:34:46 2020:Connorb (OOC): ouch
+Tue Dec 29 21:35:37 2020:Connorb (OOC): hello again roy 
+Tue Dec 29 21:35:37 2020:Connorb (OOC): ohh its koy here
+Tue Dec 29 21:35:37 2020:Royds (OOC): im over here killing boars
+Tue Dec 29 21:36:28 2020:Connorb (OOC): ohh a staff of fire
+Tue Dec 29 21:36:28 2020:Kodra (OOC): make me a god ryods
+Tue Dec 29 21:36:28 2020:Royds (OOC): i already had one dropp on me
+Tue Dec 29 21:36:28 2020:Royds (OOC): come get this zenkai ko
+Tue Dec 29 21:36:28 2020:Kodra (OOC): i dont have a verb for 400% exp yet
+Tue Dec 29 21:36:28 2020:Kodra (OOC): lol or i would
+Tue Dec 29 21:36:28 2020:Royds (OOC): ah
+Tue Dec 29 21:36:28 2020:Kodra (OOC): no zenkai here
+Tue Dec 29 21:36:28 2020:Kodra (OOC): xD
+Tue Dec 29 21:37:20 2020:Kodra (OOC): test
+Tue Dec 29 21:37:20 2020:Royds (OOC): so code it over the 200% no? or is it not that easy
+Tue Dec 29 21:37:20 2020:Connorb (OOC): is this good kod
+Tue Dec 29 21:37:20 2020:Royds (OOC): then edit it back to 200%
+Tue Dec 29 21:37:20 2020:(say) Kodra says, its basic fire staff
+Tue Dec 29 21:37:20 2020:(say) Kodra says, dats all level 1 mage taff
+Tue Dec 29 21:38:11 2020:(say) Connorb says, reee
+Tue Dec 29 21:38:11 2020:Kodra (OOC): eh its not that easy 
+Tue Dec 29 21:38:11 2020:Kodra (OOC): but its not killer
+Tue Dec 29 21:38:11 2020:Kodra (OOC): jus lazyyy
+Tue Dec 29 21:38:11 2020:Connorb (OOC): ouchie
+Tue Dec 29 21:38:11 2020:Royds (OOC): where is the boss
+Tue Dec 29 21:38:11 2020:Kodra (OOC): i need a barr kill
+Tue Dec 29 21:38:11 2020:Royds (OOC): is it you kodra
+Tue Dec 29 21:38:11 2020:Kodra (OOC): were dis mofo at
+Tue Dec 29 21:39:02 2020:Connorb (OOC): i just killed him 
+Tue Dec 29 21:39:02 2020:Connorb (OOC): xD
+Tue Dec 29 21:39:02 2020:Kodra (OOC): e.e 100 all stats
+Tue Dec 29 21:39:02 2020:Kodra (OOC): maybe im to weak
+Tue Dec 29 21:39:02 2020:Connorb (OOC): im the boss now 
+Tue Dec 29 21:39:02 2020:Royds (OOC): use your stat points
+Tue Dec 29 21:39:02 2020:Royds (OOC): ryodan is attack based or magic
+Tue Dec 29 21:39:02 2020:Kodra (OOC): str
+Tue Dec 29 21:39:02 2020:Kodra (OOC): anything from blade
+Tue Dec 29 21:39:02 2020:Kodra (OOC): is str
+Tue Dec 29 21:39:53 2020:Royds (OOC): conner go fight the oper mobs
+Tue Dec 29 21:39:53 2020:Connorb (OOC): they hurt 
+Tue Dec 29 21:39:53 2020:Connorb (OOC): alot 
+Tue Dec 29 21:39:53 2020:Royds (OOC): such a long spawn time lol
+Tue Dec 29 21:39:53 2020:Kodra (OOC): even with op gear
+Tue Dec 29 21:39:53 2020:Kodra (OOC): they hurt dang
+Tue Dec 29 21:39:53 2020:Connorb (OOC): yeah they hurt ill show ya 
+Tue Dec 29 21:40:44 2020:Royds (OOC): conner use your stat point
+Tue Dec 29 21:40:44 2020:Connorb (OOC): i have 
+Tue Dec 29 21:40:44 2020:Kodra (OOC): yeah boss fights are meant to hold people back
+Tue Dec 29 21:40:44 2020:Kodra (OOC): lel
+Tue Dec 29 21:40:44 2020:Connorb (OOC): rood
+Tue Dec 29 21:40:44 2020:Royds (OOC): AHAHAHA
+Tue Dec 29 21:40:44 2020:Royds (OOC): i am much too wizard for you
+Tue Dec 29 21:40:44 2020:Royds (OOC): aw
+Tue Dec 29 21:40:44 2020:Kodra (OOC): ow
+Tue Dec 29 21:40:44 2020:Connorb (OOC): xD
+Tue Dec 29 21:41:36 2020:Royds (OOC): i already got 16k magiks
+Tue Dec 29 21:41:36 2020:AfroxSenju (OOC): Where am I?
+Tue Dec 29 21:41:36 2020:Kodra (OOC): use teleport to floor 1
+Tue Dec 29 21:41:36 2020:Kodra (OOC): spawn points for hospial 1 is off a file tiles
+Tue Dec 29 21:41:36 2020:Connorb (OOC): kod fix this boss respawn time 
+Tue Dec 29 21:41:36 2020:Royds (OOC): by like half lol
+Tue Dec 29 21:41:36 2020:Royds (OOC): you already have the boss kil connor
+Tue Dec 29 21:42:27 2020:Connorb (OOC): i know im a keep its agro 
+Tue Dec 29 21:42:27 2020:Royds (OOC): you dont have to
+Tue Dec 29 21:42:27 2020:Royds (OOC): i am a wizard
+Tue Dec 29 21:42:27 2020:Kodra (OOC): come back
+Tue Dec 29 21:42:27 2020:Connorb (OOC): he hurts alot 
+Tue Dec 29 21:42:27 2020:Royds (OOC): he wont hurt me
+Tue Dec 29 21:42:27 2020:Royds (OOC): i have black balls
+Tue Dec 29 21:42:27 2020:Kodra (OOC): this for you
+Tue Dec 29 21:42:27 2020:(say) Kodra says, come
+Tue Dec 29 21:43:18 2020:                     (OOC): BANKAI
+Tue Dec 29 21:44:09 2020:Royds (OOC): its just a blank
+Tue Dec 29 21:44:09 2020:(say) Kodra says, space
+Tue Dec 29 21:45:00 2020:Royds (OOC): whats better black balls or orange balls
+Tue Dec 29 21:45:00 2020:Royds (OOC): thats it?
+Tue Dec 29 21:45:52 2020:Royds (OOC): 1 hit?
+Tue Dec 29 21:45:52 2020:                     (OOC): mhm
+Tue Dec 29 21:45:52 2020:Connorb (OOC): why just a blank name xD
+Tue Dec 29 21:45:52 2020:Kodra (OOC): why not tho
+Tue Dec 29 21:47:34 2020:Royds (OOC): why isnt enchanted speed till you die
+Tue Dec 29 21:48:25 2020:Royds (OOC): yo connor these guys still kill you in 1 hit?
+Tue Dec 29 21:48:25 2020:Royds (OOC): im at 19k def they take 5% hp from me
+Tue Dec 29 21:48:25 2020:Connorb (OOC): no few hits i kill them in 1 hit with ryodan
+Tue Dec 29 21:50:08 2020:Royds (OOC): where is next floor boss
+Tue Dec 29 21:50:08 2020:AfroxSenju (OOC): Kodra I can't pick any of the items up :(
+Tue Dec 29 21:50:08 2020:Royds (OOC): press space
+Tue Dec 29 21:50:08 2020:Royds (OOC): got him
+Tue Dec 29 21:50:08 2020:Kodra (OOC): press space
+Tue Dec 29 21:50:59 2020:Royds (OOC): too OP
+Tue Dec 29 21:50:59 2020:Connorb (OOC): xD
+Tue Dec 29 21:50:59 2020:AfroxSenju (OOC): ...dank plz end me.
+Tue Dec 29 21:50:59 2020:Royds (OOC): he even reset when you ran away
+Tue Dec 29 21:50:59 2020:Connorb (OOC): wait im coming bk 
+Tue Dec 29 21:50:59 2020:                     (OOC): welp im lost
+Tue Dec 29 21:50:59 2020:                     (OOC): idk where to grind
+Tue Dec 29 21:50:59 2020:Kodra (OOC): follow people
+Tue Dec 29 21:50:59 2020:Kodra (OOC): as they die
+Tue Dec 29 21:50:59 2020:Royds (OOC): boars at a portal in the bottom
+Tue Dec 29 21:50:59 2020:Kodra (OOC): they spawn floor 1
+Tue Dec 29 21:50:59 2020:Kodra (OOC): and run back up
+Tue Dec 29 21:50:59 2020:Kodra (OOC): lol
+Tue Dec 29 21:51:50 2020:                     (OOC): but im at floor 9
+Tue Dec 29 21:51:50 2020:                     (OOC): :c
+Tue Dec 29 21:51:50 2020:Kodra (OOC): go floor 10
+Tue Dec 29 21:51:50 2020:Connorb (OOC): ouch 
+Tue Dec 29 21:51:50 2020:Royds (OOC): sorry
+Tue Dec 29 21:52:41 2020:Royds (OOC): what a snipe
+Tue Dec 29 21:52:41 2020:                     (OOC): well
+Tue Dec 29 21:52:41 2020:                     (OOC): ive lost my guild teleport thingy
+Tue Dec 29 21:52:41 2020:Connorb (OOC): help me with boss
+Tue Dec 29 21:52:41 2020:Connorb (OOC): roy 
+Tue Dec 29 21:52:41 2020:Royds (OOC): why you mixed stats lol
+Tue Dec 29 21:52:41 2020:Connorb (OOC): i need to reset
+Tue Dec 29 21:53:32 2020:Royds (OOC): i killed him in 3 hits at 30k
+Tue Dec 29 21:53:32 2020:                     (OOC): how do i become a barra slayer o.o!
+Tue Dec 29 21:53:32 2020:Royds (OOC): brb
+Tue Dec 29 21:53:32 2020:Connorb (OOC): dakr gimmy money to stat reset
+Tue Dec 29 21:53:32 2020:DarkAngel (OOC): k
+Tue Dec 29 21:53:32 2020:Royds (OOC): how much is it
+Tue Dec 29 21:54:24 2020:Connorb (OOC): 10b
+Tue Dec 29 21:54:24 2020:Royds (OOC): rip
+Tue Dec 29 21:54:24 2020:Royds (OOC): senju is stuck self training as well
+Tue Dec 29 21:54:24 2020:Royds (OOC): shit where did you get that lava
+Tue Dec 29 21:54:24 2020:Connorb (OOC): senju gimmy 10b 
+Tue Dec 29 21:55:15 2020:                     (OOC): yo
+Tue Dec 29 21:55:15 2020:                     (OOC): how many races are there
+Tue Dec 29 21:55:15 2020:Kodra (OOC): 2
+Tue Dec 29 21:55:15 2020:Connorb (OOC): stole my kill 
+Tue Dec 29 21:55:15 2020:Royds (OOC): not me
+Tue Dec 29 21:55:15 2020:Connorb (OOC): kodra gimmy money xD 
+Tue Dec 29 21:55:15 2020:Connorb (OOC): i fucked stats up 
+Tue Dec 29 21:56:06 2020:Royds (OOC): staff of ice good?
+Tue Dec 29 21:56:57 2020:Connorb (OOC): kodra :(
+Tue Dec 29 21:56:57 2020:Royds (OOC): hes prob afk
+Tue Dec 29 21:56:57 2020:Royds (OOC): o shit
+Tue Dec 29 21:56:57 2020:Connorb (OOC): reeeeeee
+Tue Dec 29 21:56:57 2020:Connorb (OOC): im a remake 
+Tue Dec 29 21:56:57 2020:Connorb (OOC): roy hold onto my stuff
+Tue Dec 29 21:57:48 2020:Royds (OOC): ok
+Tue Dec 29 21:57:48 2020:Connorb (OOC): guid inv plz
+Tue Dec 29 21:57:48 2020:Royds (OOC): you need lvl 10
+Tue Dec 29 21:57:48 2020:Royds (OOC): nvm
+Tue Dec 29 21:57:48 2020:Royds (OOC): such long 3 mins
+Tue Dec 29 21:58:40 2020:Koyoto (OOC): darn I missed it
+Tue Dec 29 21:58:40 2020:Koyoto (OOC): redooo
+Tue Dec 29 21:58:40 2020:AfroxSenju (OOC): lolwhut?
+Tue Dec 29 21:59:31 2020:Connorb (OOC): roy gimmy stuff at floor 1 tp 
+Tue Dec 29 22:01:13 2020:Royds (OOC): afk for a bit
+Tue Dec 29 22:02:04 2020:AfroxSenju (OOC): wtf dickhead!
+Tue Dec 29 22:02:56 2020:AfroxSenju (OOC): tf you on
+Tue Dec 29 22:02:56 2020:AfroxSenju (OOC): that's what your tupid as get
+Tue Dec 29 22:02:56 2020:                     (OOC): who wants to buy midnight cloak for 500m
+Tue Dec 29 22:02:56 2020:                     (OOC): it costs 1b
+Tue Dec 29 22:03:47 2020:Connorb (OOC): i got 1m
+Tue Dec 29 22:03:47 2020:                     (OOC): 6x all stats
+Tue Dec 29 22:03:47 2020:Connorb (OOC): i just started xD
+Tue Dec 29 22:04:38 2020:Royds (OOC): aye no fighting guys
+Tue Dec 29 22:04:38 2020:(say) Kodra says, u can have it
+Tue Dec 29 22:04:38 2020:(say) Kodra says, press space
+Tue Dec 29 22:04:38 2020:(say) Reem says, o-o hey 
+Tue Dec 29 22:04:38 2020:AfroxSenju (OOC): thiz fuck face killed me 1st for no reason
+Tue Dec 29 22:04:38 2020:AfroxSenju (OOC): fuck that dick sucker
+Tue Dec 29 22:04:38 2020:Koyoto (OOC): its a pvp game lol
+Tue Dec 29 22:04:38 2020:Royds (OOC): prob by accident
+Tue Dec 29 22:04:38 2020:Royds (OOC): guy come on bro no need to be disrespectful
+Tue Dec 29 22:04:38 2020:(say) Kodra says, press i
+Tue Dec 29 22:04:38 2020:AfroxSenju (OOC): Nah bitch azz just walked up and melee'd
+Tue Dec 29 22:05:29 2020:Royds (OOC): koyo join us
+Tue Dec 29 22:05:29 2020:(say) Kodra says, youll need that later
+Tue Dec 29 22:05:29 2020:AfroxSenju (OOC): TF...ain't do shit to him but I'm the one disrespectin?
+Tue Dec 29 22:05:29 2020:(say) Reem says, :o
+Tue Dec 29 22:05:29 2020:(say) Kodra says, your icon will change
+Tue Dec 29 22:05:29 2020:(say) Kodra says, to this new one
+Tue Dec 29 22:05:29 2020:(say) Kodra says, and tht only working armor
+Tue Dec 29 22:05:29 2020:Royds (OOC): youre cussing him out
+Tue Dec 29 22:05:29 2020:Royds (OOC): over a kill in a pvp game
+Tue Dec 29 22:05:29 2020:(say) Connorb says, ty
+Tue Dec 29 22:05:29 2020:(say)                      says, np
+Tue Dec 29 22:05:29 2020:Royds (OOC): thats being disrespectful
+Tue Dec 29 22:05:29 2020:AfroxSenju (OOC): aight bet...gonna keep that energy later on
+Tue Dec 29 22:06:20 2020:Royds (OOC): calling him a dick sucker isnt disrespectful?
+Tue Dec 29 22:06:20 2020:Connorb (OOC): roy ya dick sucker xD jk 
+Tue Dec 29 22:06:20 2020:AfroxSenju (OOC): It'z cool...gonna keep it pushin
+Tue Dec 29 22:07:12 2020:AfroxSenju (OOC): But Imma remember him
+Tue Dec 29 22:07:12 2020:Koyoto (OOC): ight lemme leave guide
+Tue Dec 29 22:07:12 2020:Koyoto (OOC): Ight throw me an invite
+Tue Dec 29 22:07:12 2020:Connorb (OOC): wake me up when boss spawns reeeee
+Tue Dec 29 22:08:03 2020:                     (OOC): who tryina invite me to their guild 
+Tue Dec 29 22:08:03 2020:                     (OOC): cuz i got no house
+Tue Dec 29 22:08:03 2020:Kodra (OOC): yall really using the old icons cuz they give better buffs vs the new sexi armor
+Tue Dec 29 22:08:03 2020:Kodra (OOC): funny
+Tue Dec 29 22:08:03 2020:Kodra (OOC): also teleport floor 1 reem
+Tue Dec 29 22:08:03 2020:AfroxSenju (OOC): It really do be like that though lol
+Tue Dec 29 22:08:03 2020:Connorb (OOC): i so strong xD 
+Tue Dec 29 22:08:03 2020:Koyoto (OOC): wheres the new armor at
+Tue Dec 29 22:08:54 2020:(say) Connorb says, gimmy some good armour xD 
+Tue Dec 29 22:08:54 2020:Kodra (OOC): come floor 1
+Tue Dec 29 22:08:54 2020:Koyoto (OOC): oh I got that suit already I think
+Tue Dec 29 22:08:54 2020:(say) Connorb says, thats for str
+Tue Dec 29 22:08:54 2020:(say) Kodra says, this one yeh
+Tue Dec 29 22:09:45 2020:(say) Connorb says, im a wizard
+Tue Dec 29 22:09:45 2020:Royds (OOC): wtf why cant i invite koyo
+Tue Dec 29 22:09:45 2020:Royds (OOC): is guild limit 3?
+Tue Dec 29 22:09:45 2020:Koyoto (OOC): probs
+Tue Dec 29 22:09:45 2020:(say) Connorb says, any armour the boosts rei
+Tue Dec 29 22:09:45 2020:Royds (OOC): yeah doesnt let me invite anyone
+Tue Dec 29 22:10:36 2020:Royds (OOC): rip
+Tue Dec 29 22:10:36 2020:Royds (OOC): sorry koyo
+Tue Dec 29 22:10:36 2020:Koyoto (OOC): no biggie I'm already opo
+Tue Dec 29 22:10:36 2020:Connorb (OOC): kodra fix guild limit xD 
+Tue Dec 29 22:11:28 2020:Royds (OOC): almost catching up to you koyo dont sleep
+Tue Dec 29 22:11:28 2020:Royds (OOC): already 1 hitting undead knights
+Tue Dec 29 22:11:28 2020:Connorb (OOC): kodra any new armour boosting magic aka rei 
+Tue Dec 29 22:11:28 2020:Royds (OOC): you going mixed again connor?
+Tue Dec 29 22:11:28 2020:Connorb (OOC): no 
+Tue Dec 29 22:12:19 2020:Connorb (OOC): magic is rei under stats tab 
+Tue Dec 29 22:12:19 2020:Koyoto (OOC): im just item farming atm
+Tue Dec 29 22:12:19 2020:Royds (OOC): brb again
+Tue Dec 29 22:12:19 2020:Connorb (OOC): bro with 13k magic still doing 1 dmg to raged black ting
+Tue Dec 29 22:12:19 2020:Kodra (OOC): neptune armor or asuna
+Tue Dec 29 22:12:19 2020:Kodra (OOC): is tops
+Tue Dec 29 22:13:10 2020:Connorb (OOC): there we go 
+Tue Dec 29 22:13:10 2020:Connorb (OOC): now to wiat on boss 
+Tue Dec 29 22:14:01 2020:Connorb (OOC): is that same discord as the bleach one 
+Tue Dec 29 22:14:01 2020:Kodra (OOC): it has its own discord
+Tue Dec 29 22:14:01 2020:Kodra (OOC): tis small still
+Tue Dec 29 22:14:52 2020:Koyoto (OOC): can you fix my stats kodra
+Tue Dec 29 22:14:52 2020:Koyoto (OOC): some of them have decimals
+Tue Dec 29 22:14:52 2020:Kodra (OOC): in statstab?
+Tue Dec 29 22:14:52 2020:Kodra (OOC): ok
+Tue Dec 29 22:14:52 2020:Koyoto (OOC): think it's just my rei
+Tue Dec 29 22:15:44 2020:Connorb (OOC): the link sending me to bleach one 
+Tue Dec 29 22:15:44 2020:Koyoto (OOC): they're combined
+Tue Dec 29 22:16:35 2020:Connorb (OOC): okay brb nephew asking me to help build lego 
+Tue Dec 29 22:17:26 2020:Kodra (OOC): ok on reboot
+Tue Dec 29 22:18:17 2020:Kodra (OOC): its fixed
+Tue Dec 29 22:18:17 2020:(say) Kodra says, https://discord.gg/Fp79pPwDbP
+Tue Dec 29 22:18:17 2020:Kodra (OOC): weird
+Tue Dec 29 22:18:17 2020:Koyoto (OOC): ?
+Tue Dec 29 22:19:08 2020:                     (OOC): yeah fuick thijssss
+Tue Dec 29 22:19:08 2020:                     (OOC): why can they 1shot me
+Tue Dec 29 22:20:51 2020:Koyoto (OOC): waiting on another tourney
+Tue Dec 29 22:21:42 2020:Kodra (OOC): go for it llol
+Tue Dec 29 22:21:42 2020:Koyoto (OOC): join everyone
+Tue Dec 29 22:21:42 2020:Koyoto (OOC): free levels
+Tue Dec 29 22:21:42 2020:AfroxSenju (OOC): More like free billions for him lol
+Tue Dec 29 22:21:42 2020:                     (OOC): wtf senju
+Tue Dec 29 22:21:42 2020:                     (OOC): that 23x ass boost
+Tue Dec 29 22:22:33 2020:                     (OOC): is that the orb thing
+Tue Dec 29 22:22:33 2020:Koyoto (OOC): this man and his 16 mil str the fux
+Tue Dec 29 22:22:33 2020:                     (OOC): that gives u that
+Tue Dec 29 22:22:33 2020:(say)                      says, its empress koyoto
+Tue Dec 29 22:22:33 2020:AfroxSenju (OOC): Yeah...Kyoto stfu you rockin the same gear and got literally 3x levels on me...sit quiet and just steal the tourney
+Tue Dec 29 22:22:33 2020:(say)                      says, let me see how much boost that orb thing gives
+Tue Dec 29 22:23:24 2020:Koyoto (OOC): 4 X I believe
+Tue Dec 29 22:23:24 2020:AfroxSenju (OOC): You ain't helpin the case chief
+Tue Dec 29 22:23:24 2020:(say)                      says, hmm where do i get it
+Tue Dec 29 22:23:24 2020:Koyoto (OOC): no clue
+Tue Dec 29 22:23:24 2020:AfroxSenju (OOC): Lets all just feed Kyoto the money and just get this over with :(
+Tue Dec 29 22:24:16 2020:(say)                      says, lol 1.5x boost
+Tue Dec 29 22:24:16 2020:Koyoto (OOC): yeah truth orbs be weak
+Tue Dec 29 22:24:16 2020:(say)                      says, how do u have 23x boost senjuuu
+Tue Dec 29 22:24:16 2020:AfroxSenju (OOC): Items
+Tue Dec 29 22:24:16 2020:                     (OOC): what items
+Tue Dec 29 22:25:07 2020:Koyoto (OOC): big hax
+Tue Dec 29 22:25:07 2020:                     (OOC): wtf now i didint recieve 1b cor
+Tue Dec 29 22:25:07 2020:Reem (OOC): yo like how do i pick a class .-.
+Tue Dec 29 22:25:07 2020:Kodra (OOC): use floor 1 teleport
+Tue Dec 29 22:25:07 2020:Kodra (OOC): then go inside
+Tue Dec 29 22:25:58 2020:Kodra (OOC): talk to npcs
+Tue Dec 29 22:25:58 2020:Reem (OOC): im dumb lmao
+Tue Dec 29 22:25:58 2020:Reem (OOC): ty
+Tue Dec 29 22:25:58 2020:(say)                      says, stop
+Tue Dec 29 22:25:58 2020:(say)                      says, stopp
+Tue Dec 29 22:25:58 2020:Kodra (OOC): np
+Tue Dec 29 22:25:58 2020:(say)                      says, stopppp
+Tue Dec 29 22:26:49 2020:(say)                      says, smh ou want me to 1 punch u
+Tue Dec 29 22:26:49 2020:(say)                      says, what items are u using
+Tue Dec 29 22:26:49 2020:AfroxSenju (OOC): what do you want man damn!
+Tue Dec 29 22:26:49 2020:                     (OOC): to teach me how to get that boost!
+Tue Dec 29 22:27:40 2020:AfroxSenju (OOC): Nah you a one punch man...figure it out lol
+Tue Dec 29 22:27:40 2020:                     (OOC): by one punching you? >.>
+Tue Dec 29 22:27:40 2020:AfroxSenju (OOC): If that'll make you smarter lol....
+Tue Dec 29 22:28:32 2020:Royds (OOC): aye man no bleach guilds in sawo
+Tue Dec 29 22:28:32 2020:Royds (OOC): sao*
+Tue Dec 29 22:29:23 2020:AfroxSenju (OOC): Y'all really don't know how to get thiz beefy ass multi like me?
+Tue Dec 29 22:30:14 2020:AfroxSenju (OOC): Check the ORDER in which you put your items on...pay attention and look at the numbers instead of just equippin shit
+Tue Dec 29 22:30:14 2020:                     (OOC): that misstype koyoto xD
+Tue Dec 29 22:30:14 2020:Kodra (OOC): yeah
+Tue Dec 29 22:30:14 2020:Koyoto (OOC): big ripper
+Tue Dec 29 22:30:14 2020:Kodra (OOC): make sure u stack to max
+Tue Dec 29 22:30:14 2020:AfroxSenju (OOC): peeps slow af
+Tue Dec 29 22:30:14 2020:AfroxSenju (OOC): Put them on in the right order then BLAM...you killin it
+Tue Dec 29 22:31:05 2020:AfroxSenju (OOC): The rest y'all can figure out for yaselves.  I hipped you to the multi game...now just find the right itemz and learn their multiz
+Tue Dec 29 22:31:56 2020:Reem (OOC): kODRA
+Tue Dec 29 22:31:56 2020:Royds (OOC): shit did someone kill the 3f boss
+Tue Dec 29 22:31:56 2020:AfroxSenju (OOC): Probably
+Tue Dec 29 22:31:56 2020:Kodra (OOC): yeah reem
+Tue Dec 29 22:31:56 2020:Reem (OOC): Oh my sword was bugged lol
+Tue Dec 29 22:31:56 2020:Reem (OOC): I couldnt equip it
+Tue Dec 29 22:31:56 2020:(say) Kodra says, ah
+Tue Dec 29 22:31:56 2020:Koyoto (OOC): hmm how to get past floor 5
+Tue Dec 29 22:31:56 2020:Royds (OOC): kodra you dont have to kill boars anymore
+Tue Dec 29 22:31:56 2020:(say) Kodra says, other tab remove all or some should fix
+Tue Dec 29 22:32:48 2020:(say) Kodra says, or sword fix if its there
+Tue Dec 29 22:32:48 2020:Royds (OOC): reem go to other>sword&staff fix
+Tue Dec 29 22:32:48 2020:(say) Reem says, yeah ty man ^^
+Tue Dec 29 22:33:39 2020:AfroxSenju (OOC): Royds I don't know if you deal with world building, but you got a random black square near the mob entrance of Floor 3
+Tue Dec 29 22:33:39 2020:Royds (OOC): yeah i seen it
+Tue Dec 29 22:34:30 2020:Royds (OOC): not me tho its dark angel
+Tue Dec 29 22:34:30 2020:Kodra (OOC): were?
+Tue Dec 29 22:34:30 2020:Royds (OOC): ill report it though thanks
+Tue Dec 29 22:34:30 2020:Royds (OOC): oh kodra is here
+Tue Dec 29 22:34:30 2020:Royds (OOC): tp to me kodra
+Tue Dec 29 22:34:30 2020:Royds (OOC): its here
+Tue Dec 29 22:34:30 2020:Kodra (OOC): ah alr
+Tue Dec 29 22:35:21 2020:Koyoto (OOC): :)
+Tue Dec 29 22:35:21 2020:Koyoto (OOC): I've defeated godddd
+Tue Dec 29 22:35:21 2020:                     (OOC): how do i sell my house
+Tue Dec 29 22:35:21 2020:                     (OOC): says ive got 2 houses thats a lie
+Tue Dec 29 22:35:21 2020:Royds (OOC): oops

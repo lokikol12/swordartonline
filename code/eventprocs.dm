@@ -61,7 +61,7 @@ world
 
 
 		discord()
-			world << "<b><font color = red>Join on us Discord https://discord.gg/m8FBFU4 </br> Join us on Youtube https://www.youtube.com/channel/UCP2BTQgbPpZ1BIVS4pANo3Q "
+			world << "<b><font color = red>Join on us on Discord https://discord.gg/Fp79pPwDbP </br> Join us on Youtube https://www.youtube.com/channel/UCP2BTQgbPpZ1BIVS4pANo3Q "
 
 
 

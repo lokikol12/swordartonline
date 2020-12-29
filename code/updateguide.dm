@@ -23,6 +23,8 @@ Notes:
 			<html>
 				<body style="background-color:black; color:white;">
 					<h3><b>Update Info</b></h3>
+					12/29/2020 did a fix on stats tab lag & going into decimals numbers on stats.</br>
+					12/29/2020 updated sicord link.</br>
 					12/29/2020 removed adding custom overlays for now.</br>
 					12/29/2020 added a rounding proc so you dont view stats under a even vaule ie 1,232.54.</br>
 					12/29/2020 made ki blast not spam off cooldown since it has almost same delay as basic attack.</br>
