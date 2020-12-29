@@ -211,7 +211,7 @@ mob
 					var/T
 					var/e
 					var/o
-					e = src.exp * 0.50
+					e = src.expgain * 0.50
 					o = applycommas(e)
 					G = src.expgain * 2
 					F = applycommas(G)
@@ -263,7 +263,7 @@ mob
 					if(A.owner == src)
 						del(A)
 				if(src.spawn1 == 1)
-					src.loc = locate(123,5,1)
+					src.loc = locate(97,24,1)
 					src.safe = 1
 					outputMessage(world,"<font color = red>[M] has killed [src]!","gametext")
 				if(src.spawn2 == 1)

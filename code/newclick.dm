@@ -19,16 +19,16 @@ mob
 				var/s
 				var/j
 				var/k
-				k = applycommas(src.mexp)
-				j = applycommas(src.exp)
-				i = applycommas(src.health)
-				t = applycommas(src.mhealth)
-				r = applycommas(src.mana)
-				e = applycommas(src.mmana)
-				w = applycommas(src.strength)
-				q = applycommas(src.defence)
-				s = applycommas(src.reiatsu)
-				a = applycommas(src.resistance)
+				k = applycommas(round(src.mexp))
+				j = applycommas(round(src.exp))
+				i = applycommas(round(src.health))
+				t = applycommas(round(src.mhealth))
+				r = applycommas(round(src.mana))
+				e = applycommas(round(src.mmana))
+				w = applycommas(round(src.strength))
+				q = applycommas(round(src.defence))
+				s = applycommas(round(src.reiatsu))
+				a = applycommas(round(src.resistance))
 				outputMessage(usr,"<font color=green>[src.name]/[src.race]/[src.guild_name]/[src.key]</br>Level :[src.soulpower]</br>Health:[i]/[t]</br>Mana:[r]/[e]</br>Strength:[w]/[strmod]</br>Defence:[q]/[src.defmod]</br>Reiatsu:[s]/[src.reimod]</br>Resistance:[a]/[src.resmod]</br>Exp:[j]/[k]","gametext")
 				usr.delay = 1
 				spawn(15)

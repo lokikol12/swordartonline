@@ -23,6 +23,13 @@ Notes:
 			<html>
 				<body style="background-color:black; color:white;">
 					<h3><b>Update Info</b></h3>
+					12/29/2020 removed adding custom overlays for now.</br>
+					12/29/2020 added a rounding proc so you dont view stats under a even vaule ie 1,232.54.</br>
+					12/29/2020 made ki blast not spam off cooldown since it has almost same delay as basic attack.</br>
+					12/29/2020 fixed the guild exp share not saying 0 exp but still sharing the exp.</br>
+					12/29/2020 looking for iconners to make some armors please discord us.</br>
+					12/29/2020 made first 3 floors drop the new armor instea of others till icon rework is done.</br>
+					12/29/2020 fixed few icons.</br>
 					12/20/2020 New Legendary  Outfit added (3x to all stats)
 					12/20/2020 Hair icons are made to fit new Base (please report if something is wrong) </br>
 					12/20/2020 New Npc's(base icon changed)</br>

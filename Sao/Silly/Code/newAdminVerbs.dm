@@ -1,5 +1,5 @@
 mob/var/tmp/list/adminOverlays = list()
-mob/verb
+mob/owner/verb
 	Add_Overlays_Test()
 		set category = "Other"
 		var/tmp/list/choices = list("Add")

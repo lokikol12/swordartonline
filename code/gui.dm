@@ -164,11 +164,6 @@ mob/proc/increaseStat(stat, a)
 
 mob
 	verb
-		World_Map()
-			set hidden = 1
-			var/worldmap = 'earthmap.bmp'
-			winshow(usr,"browser",1)
-			usr << browse(worldmap)
 
 /*
 I've redone the html. Try to stick to that layout for easier reading and editing.

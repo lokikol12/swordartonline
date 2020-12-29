@@ -169,74 +169,6 @@ mob
 					spawn(550) //wait 2 minutes
 						removeCD("Magic Push") //remove skill from the cooldowns list
 
-			yamaaoe()
-				set category = "Combat"
-				set name = "Zakchi"
-				if(onCD("Zakchi")) //If this skill is found in the cooldowns list
-					return //cancel
-				else //if reiatsu is more than or equal to 280
-					addCD("Zakchi") //add the skill to the cooldowns list
-					outputMessage(usr,"<b><font color = red>[usr]:Be consumed by flames!","gametext")
-					for(var/mob/M in oview(3)) //for every mob within 4 tiles in any direction
-						M.burn()
-						usr.statgainreirb()
-					spawn(600) //30 secs
-						removeCD("Zakchi") //remove skill from the cooldowns list
-
-			FlameLevel1()
-				set category = "Combat"
-				set name = "Flame Level One"
-				if(onCD("Flame1")) //If this skill is found in the cooldowns list
-					return //cancel
-				else //if reiatsu is more than or equal to 280
-					addCD("Flame1") //add the skill to the cooldowns list
-					outputMessage(usr,"<b><font color = red>[usr]:Combust to Ash!","gametext")
-					for(var/mob/M in oview(3)) //for every mob within 4 tiles in any direction
-						M.burn()
-						usr.statgainreirb()
-						usr.overlays += 'spark.dmi'
-						spawn(5)
-							usr.overlays -= 'spark.dmi'
-					spawn(600) //30 secs
-						removeCD("Flame1") //remove skill from the cooldowns list
-
-			FlameLevel2()
-				set category = "Combat"
-				set name = "Flame Level One"
-				if(onCD("Flame2")) //If this skill is found in the cooldowns list
-					return //cancel
-				else //if reiatsu is more than or equal to 280
-					addCD("Flame2") //add the skill to the cooldowns list
-					outputMessage(usr,"<b><font color = red>[usr]:Combust to Ash!","gametext")
-					for(var/mob/M in oview(6)) //for every mob within 4 tiles in any direction
-						M.burn()
-						usr.statgainreirb()
-						usr.overlays += 'spark.dmi'
-						spawn(10)
-							usr.overlays -= 'spark.dmi'
-					spawn(900) //30 secs
-						removeCD("Flame2") //remove skill from the cooldowns list
-
-
-
-
-
-			FlameLevel3()
-				set category = "Combat"
-				set name = "Hougyoku Push"
-				if(onCD("Hougyoku Push")) //If this skill is found in the cooldowns list
-					return //cancel
-				else
-					addCD("Hougyoku Push") //add the skill to the cooldowns list
-					outputMessage(usr,"<b><font color = red>[usr]:Kneel!","gametext")
-					for(var/mob/M in oview(6)) //for every mob within 6 tiles in any direction
-						M.reipressure()
-						usr.statgainreirb()
-						spawn(900) //30 secs
-							removeCD("Hougyoku Push") //remove skill from the cooldowns list
-
-
-
 // Waterwalk
 			Waterwalk()
 				set category = "Combat"
@@ -1020,32 +952,11 @@ mob
 
 
 
-			gcero()
-				set category = "Combat"
-				set name = "Ginjo"
-				if(onCD("bala")||usr.safe)
-					return
-				if(usr.client)
-					if(usr.mana < 2)
-						outputMessage(usr,"<b>Your mana is too low!","gametext")
-						return
-					usr.mana -= 2
-					usr.manaRegen()
-					usr.statgainreirb()
-				//All player only code ends here. Below is also used by enemies that use this verb
-				addCD("Ginjo")
-				var/obj/K = new/obj/techniques/gcero(usr.loc)
-				K.owner = usr
-				K.dir = usr.dir
-				walk(K,usr.dir)
-				spawn(20)
-					removeCD("Ginjo")
-
 // kiblast
 			kiblast()
 				set category = "Combat"
 				set name = "Ki Blast"
-				if(onCD("kiblast")||usr.safe)
+				if(onCD("kiblast",1)||usr.safe)
 					return
 				if(usr.client)
 					if(usr.mana <= usr.mmana*0.1)
@@ -1061,7 +972,7 @@ mob
 				K.dir = usr.dir
 				walk(K,usr.dir)
 				spawn(5)
-					removeCD("kiblast")
+					removeCD("kiblast",1)
 				usr.updateHud()
 //Human below
 

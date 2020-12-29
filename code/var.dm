@@ -151,6 +151,7 @@ mob/var
 	armor8 = 0
 	armor9 = 0
 	armor10 = 0
+	armor11 = 0
 	ll2 = 0
 	angerCD = 0
 	defaultrundelay = 2
