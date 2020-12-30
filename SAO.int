@@ -1,12 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1609276795
+LAST_COMPILE_TIME: 1609320182
 DIR: .git\hooks code Sao Sao\Silly Sao\Silly\Code Silly\Code 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 512.1488
-WINDOW: code\updateguide.dm;SAO.dmm
-FILE: SAO.dmm
+LAST_COMPILE_VERSION: 513.1536
+WINDOW: code\updateguide.dm;SAO.dmm;code\event.dm;code\eventprocs.dm;code\extra.dm;code\gui.dm
+FILE: code\gui.dm
 */
 // END_INTERNALS
