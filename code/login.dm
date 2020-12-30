@@ -57,6 +57,7 @@ mob/proc
 					src.overlays += /obj/gl
 				src.OOC = 1
 				src.cansave=1
+				src.client.triggerNPCAwake()
 				src.auraon=0
 				src.frozen = 0
 				src.defence = src.mdefence

@@ -584,7 +584,6 @@ mob/World_Map
 		interactWith(mob/player)
 			switch(input("Do you require medical attention?", text) in list ("Yes","No"))
 				if("Yes")
-					player.Skills += 10
 					player.rechargeStats()
 					dialogue = "All done!"
 					player.updateHud()
@@ -616,10 +615,7 @@ mob/World_Map
 			if(player.soulpower <= 9)return
 			switch(input("Are you ready to go to the mainland?", text) in list ("Yes","No"))
 				if("Yes")
-					player.Cor += 100000
 					player.race = "Human"
-					player.statpoints += 50
-					player.exp += 1000
 					player.loc = locate(186,33,6)
 
 

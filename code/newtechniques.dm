@@ -691,7 +691,7 @@ mob
 
 			MutiShuriken()
 				set category = "Combat"
-				set name = "Mutiple Shuriken"
+				set name = "Multiple Shuriken"
 				if(onCD("MutiShuriken")||usr.safe)
 					return
 				if(usr.client)
