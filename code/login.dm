@@ -40,6 +40,20 @@ mob/proc
 				src.joe = 1
 				if(src)
 					src.inshikai = 0
+				if(src.inhom == 1)
+					src.strmod -= 4
+					src.defmod -= 4
+					src.inhom = 0
+					src.reimod -= 4
+					src.resmod -= 4
+				if(src.inhoug == 1)
+					src.reimod -= 5
+					src.resmod -= 5
+					src.inhoug = 0
+				if(src.armon == 1)
+					src.strmod -= 5
+					src.defmod -= 5
+					src.armon = 0
 					src.rundelay = src.defaultrundelay
 					src.inbankai = 0
 					src.inhoug = 0

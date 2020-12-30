@@ -139,13 +139,17 @@ mob
 			src.inrelease = 0
 			src.expmod = src.defaultexpmod
 			src.bowon = 0
+			if(src.inhom == 1)
+				src.strmod -= 4
+				src.defmod -= 4
+				src.reimod -= 4
+				src.resmod -= 4
+			if(src.inhoug == 1)
+				src.reimod -= 5
+				src.resmod -= 5
 			if(src.armon == 1)
-				src.armon = 1
-			if(usr.inhom == 1)
-				usr.strmod -= 4
-				usr.defmod -= 4
-				usr.reimod -= 4
-				usr.resmod -= 4
+				src.strmod -= 5
+				src.defmod -= 5
 			src.poison = 0
 			maskon = 0
 			src.chadref = 0

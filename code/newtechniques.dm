@@ -3817,7 +3817,7 @@ obj
 			density = 1
 			lifetime = 30
 			dmgmult = 1.5
-			techtype = "mana"
+			techtype = "Physical"
 			Move()
 				var/obj/K = new/obj/techniques/dragtrail(src.loc)
 				src.trails += K

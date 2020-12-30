@@ -182,6 +182,10 @@ mob/moderator
 			M.resting = 0
 			M.underlays = 0
 			M.firing = 0
+			M.reimod = 0
+			M.strmod = 0
+			M.defmod = 0
+			M.resmod = 0
 
 		Boot()
 			set name = "Boot"
