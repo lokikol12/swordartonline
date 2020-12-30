@@ -141,6 +141,11 @@ mob
 			src.bowon = 0
 			if(src.armon == 1)
 				src.armon = 1
+			if(usr.inhom == 1)
+				usr.strmod -= 4
+				usr.defmod -= 4
+				usr.reimod -= 4
+				usr.resmod -= 4
 			src.poison = 0
 			maskon = 0
 			src.chadref = 0
