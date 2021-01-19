@@ -1,4 +1,5 @@
 //mynameisconnor
+//welcome connor to coding you just pushed and pulled your first github project gg
 mob
 	proc
 		changeBadge()
