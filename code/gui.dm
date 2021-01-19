@@ -1,3 +1,4 @@
+//mynameisconnor
 mob
 	proc
 		changeBadge()
