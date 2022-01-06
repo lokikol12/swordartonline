@@ -23,6 +23,8 @@ Notes:
 			<html>
 				<body style="background-color:black; color:white;">
 					<h3><b>Update Info</b></h3>
+					wow its been a full year since ive loaded this source</br>
+					---------------------------------
 					12/30/2020 fixed death dragon dmg.</br>
 					12/30/2020 made fix on true form revert.</br>
 					12/29/2020 did a fix on stats tab lag & going into decimals numbers on stats.</br>
